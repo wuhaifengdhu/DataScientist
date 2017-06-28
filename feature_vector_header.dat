@@ -1,0 +1,507 @@
+(dp1
+S'skills'
+p2
+(lp3
+S'nosql'
+p4
+aS'hadoop'
+p5
+aS'mysql'
+p6
+aS'go'
+p7
+aS'hbase'
+p8
+aS'd3'
+p9
+aS'visualization'
+p10
+aS'probability'
+p11
+aS'big data'
+p12
+aS'critical thinking'
+p13
+aS'improvement'
+p14
+aS'statistical software'
+p15
+aS'matlab'
+p16
+aS'python'
+p17
+aS'fraud'
+p18
+aS'linux'
+p19
+aS'mapreduce'
+p20
+aS'hive'
+p21
+aS'security'
+p22
+aS'intelligence'
+p23
+aS'testing'
+p24
+aS'teradata'
+p25
+aS'analytics'
+p26
+aS'defense'
+p27
+aS'design'
+p28
+aS'pricing'
+p29
+aVstatistic
+p30
+aS'econometrics'
+p31
+aS'hdfs'
+p32
+aS'scala'
+p33
+aS'saas'
+p34
+aS'integration'
+p35
+aS'access'
+p36
+aS'r'
+aS'segmentation'
+p37
+aS'javascript'
+p38
+aS'customer service'
+p39
+aS'processing'
+p40
+aS'git'
+p41
+aS'apache'
+p42
+aS'modeling'
+p43
+aS'spark'
+p44
+aS'manufacturing'
+p45
+aS'b2b'
+p46
+aS'c'
+aS'spss'
+p47
+aS'advertising'
+p48
+aS'microsoft office'
+p49
+aS'powerpoint'
+p50
+aS'data integration'
+p51
+aS'forecasting'
+p52
+aS'classification'
+p53
+aS'communication'
+p54
+aS'sql'
+p55
+aS'unix'
+p56
+aS'data warehousing'
+p57
+aS'troubleshooting'
+p58
+aS'data mining'
+p59
+aS'perl'
+p60
+aS'experimentation'
+p61
+aS'clustering'
+p62
+aS'management'
+p63
+aS'java'
+p64
+aS'deep learning'
+p65
+aS'strategy'
+p66
+aS'quality assurance'
+p67
+aS'ruby'
+p68
+aS'data collection'
+p69
+aS'word'
+p70
+aS'machine learning'
+p71
+aS'data architecture'
+p72
+aS'optimization'
+p73
+aS'dashboard'
+p74
+aVoperation research
+p75
+aS'scripting'
+p76
+aS'computing'
+p77
+aS'pig'
+p78
+aS'hardware'
+p79
+aS'cluster'
+p80
+aS'engineering'
+p81
+aS'simulation'
+p82
+aS'regression'
+p83
+aS'cassandra'
+p84
+aS'excel'
+p85
+aS'tableau'
+p86
+aS'html'
+p87
+aS'mathematics'
+p88
+aS'development'
+p89
+aS'mongodb'
+p90
+aS'scrum'
+p91
+aS'aws'
+p92
+aS'automation'
+p93
+aS'bioinformatics'
+p94
+aVphysic
+p95
+aValgorithm
+p96
+aVdatabase
+p97
+aS'analysis'
+p98
+aS'command'
+p99
+aS'oracle'
+p100
+aVsa
+p101
+asS'working-year'
+p102
+(lp103
+V(15, 20]
+p104
+aV(5, 10]
+p105
+aV(0, 2]
+p106
+aV(2, 5]
+p107
+aV(20, 30)
+p108
+aS'[0]'
+p109
+aV(10, 15]
+p110
+asS'major'
+p111
+(lp112
+VLinguistics
+p113
+aVStatistics
+p114
+aVPsychology
+p115
+aVSociology
+p116
+aVAstrophysics
+p117
+aVMathematics
+p118
+aVBusiness
+p119
+aVInformation Science
+p120
+aVComputer Science
+p121
+aVData Science
+p122
+aVEconomics
+p123
+aVCognitive Science
+p124
+aVChemical Engineering
+p125
+aVBiological Engineering
+p126
+aVPhysics
+p127
+aVManagement Science and Engineering
+p128
+aVTransportation Engineering
+p129
+aVIndustrial Engineering
+p130
+aVElectrical and Electronics Engineering
+p131
+aVEngineering
+p132
+aVEnvironmental Engineering
+p133
+aVOperations Research
+p134
+aVGeography
+p135
+asS'education'
+p136
+(lp137
+VBachelor
+p138
+aVMaster
+p139
+aVDoctor
+p140
+asS'responsibility'
+p141
+(lp142
+S'build dashboard'
+p143
+aS'architect system'
+p144
+aS'non-routine analysis problem'
+p145
+aS'transform data set'
+p146
+aS'insight'
+p147
+aS'manage data'
+p148
+aS'provide mentorship'
+p149
+aS'cross-functionally'
+p150
+aS'exploratory analysis'
+p151
+aS'product leadership'
+p152
+aS'evaluate ... experiment'
+p153
+aS'improvement'
+p154
+aS'analytic'
+p155
+aS'presentation'
+p156
+aS'transformation'
+p157
+aS'financial model'
+p158
+aS'prioritize lead'
+p159
+aS'quantitative information'
+p160
+aS'report'
+p161
+aS'monitor ... metric'
+p162
+aS'discover pattern'
+p163
+aS'drive ... model'
+p164
+aS'experiment analysis'
+p165
+aS'manage decision'
+p166
+aS'manipulate ... data set'
+p167
+aS'ad-hoc exploratory'
+p168
+aS'develop ... system'
+p169
+aS'design'
+p170
+aS'cost benefit'
+p171
+aS'recommendation'
+p172
+aS'extract'
+p173
+aS'cost-benefit'
+p174
+aS'mine data'
+p175
+aS'explore opportunity'
+p176
+aS'pattern'
+p177
+aS'ensure accuracy'
+p178
+aS'forecast'
+p179
+aS'track ... activity'
+p180
+aS'automate report'
+p181
+aS'evaluation'
+p182
+aS'data analysis'
+p183
+aS'build model'
+p184
+aS'provide leadership'
+p185
+aS'processing'
+p186
+aS'communicate'
+p187
+aS'create rule'
+p188
+aS'statistical method'
+p189
+aS'problem statement'
+p190
+aS'interface'
+p191
+aS'product decision'
+p192
+aS'data gathering'
+p193
+aS'support platform'
+p194
+aS'simulation'
+p195
+aS'product launch'
+p196
+aS'implement'
+p197
+aS'engineering design'
+p198
+aS'business recommendation'
+p199
+aS'forecasting'
+p200
+aVproduct operation
+p201
+aS'manipulate ... dataset'
+p202
+aVtest hypothesis
+p203
+aS'identify opportunity'
+p204
+aS'due diligence'
+p205
+aS'drive ... decision'
+p206
+aS'data mining'
+p207
+aS'quantitative analysis'
+p208
+aS'decision making'
+p209
+aS'formulate'
+p210
+aS'construct'
+p211
+aS'develop ... model'
+p212
+aS'tactical initiative'
+p213
+aS'complex data set'
+p214
+aS'prototype'
+p215
+aS'data sourcing'
+p216
+aS'data infrastructure'
+p217
+aS'business problem'
+p218
+aS'collect data'
+p219
+aS'statistical model'
+p220
+aS'understand'
+p221
+aS'key decision'
+p222
+aS'identify ... trend'
+p223
+aS'design ... experiment'
+p224
+aS'ensure data integrity'
+p225
+aS'data collection'
+p226
+aVass ... improvement
+p227
+aS'optimization'
+p228
+aS'analytical method'
+p229
+aS'go-to-market strategy'
+p230
+aS'predict'
+p231
+aVrequirement specification
+p232
+aS'solve problem'
+p233
+aS'modeling'
+p234
+aS'information'
+p235
+aS'cross functionally'
+p236
+aS'define metric'
+p237
+aS'visual display'
+p238
+aS'ongoing deliverable'
+p239
+aS'development'
+p240
+aS'product'
+p241
+aS'large data set'
+p242
+aS'decision-making'
+p243
+aS'mapping'
+p244
+aS'ownership'
+p245
+aS'data wrangling'
+p246
+aS'evaluate ... metric'
+p247
+aS'normalization'
+p248
+aS'test ... model'
+p249
+aS'documentation'
+p250
+aS'analysis'
+p251
+aS'model'
+p252
+aS'build solution'
+p253
+aS'validate ... model'
+p254
+aS'data aggregation'
+p255
+as.

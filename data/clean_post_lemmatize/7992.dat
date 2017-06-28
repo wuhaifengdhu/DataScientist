@@ -1,0 +1,54 @@
+description
+why hca
+at founding 1968 nashville-based hca one nation's first hospital companies. today one nation's leading provider healthcare service hca comprised locally-managed facility include 250 hospital freestanding surgery center 20 state united kingdom employing approximately 230 000 people. approximately four five percent inpatient care delivered country today provided hca facility resulting 26m patient encounter year. hca committed care improvement human life strives deliver high quality cost effective healthcare community serve. building foundation provided mission values hca put patient first work constantly improve care provide implementing measure support caregiver help ensure patient safety provide highest possible quality.
+additional facts
+ranked 63 fortune 500
+competitive fortune 100 industry matched salary yearly merit increase
+computerworld top 50 best places work it since 2009
+named one worlds most ethical companies since 2010
+106 hca hospital the joint commissions list top performer key quality measure
+job summary
+this role provide application development specific business environments. focus setting technical direction group application similar technology well taking responsibility technically robust solution encompassing business architecture technology constraints.
+responsible building supporting hadoop-based ecosystem designed enterprise-wide analysis structured semi-structured unstructured data.
+manage optimize hadoop/spark cluster may include many large hbase instance
+support regular request move data one cluster another
+manage production support team make sure service level maintained interruption resolved timely fashion
+bring new data source hdfs transform load databases.
+work collaboratively data scientists business it leader throughout company understand big data need use cases.
+qualifications
+qualifications
+strong understanding best practice standard hadoop application design implementation.
+hands-on experience cloudera distributed hadoop cdh experience many following component
+hadoop mapreduce spark streaming impala hive solr yarn
+java python scala
+sql json xml
+regex
+sqoop
+avro parquet
+flume kafka
+experience developing mapreduce program using apache hadoop working big data.
+experience deployed big data technologies production.
+understanding lambda design architectures real-time streaming
+ability multitask balance competing priorities.
+requires strong practical experience agile application development file system management devops discipline practice using short-cycle iteration deliver continuous business value.
+ability define utilize best practice technique impose order fast-changing environment. must strong problem-solving skills.
+strong verbal written interpersonal skill including desire work within highly-matrixed team-oriented environment.
+preferred
+a successful candidate may
+experience healthcare domain
+experience patient data
+hardware/operating systems
+linux
+unix
+distributed highly-scalable processing environment
+networking - basic understanding networking respect distributed server file system connectivity troubleshooting connectivity error
+databases
+
+rdbms teradata
+other languages java python scala r
+build systems maven ant
+source control systems git mercurial
+continuous integration systems jenkins bamboo
+config/orchestration zookeeper puppet salt ansible chef oozie pig
+certifications plus required
+ccdh cloudera certified developer apache hadoop

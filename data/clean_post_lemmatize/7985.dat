@@ -1,0 +1,46 @@
+description
+the role requires working closely data science team frequently matrixed environment part broader project team. as senior-level position role requires self-starter proficient problem solving capable bringing clarity complex situations. the culture organization place emphasis teamwork social interpersonal skill equally important technical capability. due emerging fast-evolving nature big data technology practice position requires one stay well-informed technological advancement proficient putting new innovation effective practice.
+responsibilities
+this role provide application development specific business environments. focus setting technical direction group application similar technology well taking responsibility technically robust solution encompassing business architecture technology constraints.
+responsible building supporting hadoop-based ecosystem designed enterprise-wide analysis structured semi-structured unstructured data.
+manage optimize hadoop/spark cluster may include many large hbase instance
+support regular request move data one cluster another
+manage production support team make sure service level maintained interruption resolved timely fashion
+bring new data source hdfs transform load databases.
+work collaboratively data scientists business it leader throughout company understand big data need use cases.
+qualifications
+a successful candidate following
+bachelors degree computer science related discipline least 5 year equivalent work experience.
+strong understanding best practice standard hadoop application design implementation.
+hands-on experience cloudera distributed hadoop cdh experience many following component
+hadoop mapreduce spark impala hive solr yarn
+java python scala
+sql json xml
+regex
+sqoop
+experience developing mapreduce program using apache hadoop working big data.
+experience deployed big data technologies production.
+understanding lambda design architectures real-time streaming
+ability multitask balance competing priorities.
+requires strong practical experience agile application development file system management devops discipline practice using short-cycle iteration deliver continuous business value.
+ability define utilize best practice technique impose order fast-changing environment. must strong problem-solving skills.
+strong verbal written interpersonal skill including desire work within highly-matrixed team-oriented environment.
+preferred
+a successful candidate may
+experience healthcare domain
+experience patient data
+hardware/operating systems
+linux
+unix
+distributed highly-scalable processing environment
+networking - basic understanding networking respect distributed server file system connectivity troubleshooting connectivity error
+databases
+
+rdbms teradata
+other languages java python scala r
+build systems maven ant
+source control systems git mercurial
+continuous integration systems jenkins bamboo
+config/orchestration zookeeper puppet salt ansible chef oozie pig
+certifications plus required
+ccdh cloudera certified developer apache hadoop

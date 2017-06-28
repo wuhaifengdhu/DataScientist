@@ -1,0 +1,3954 @@
+(dp1
+S'citigroup'
+p2
+S'citigroup'
+p3
+sS'walt disney imagineering'
+p4
+S'disney'
+p5
+sS'wachovia, a wells fargo company'
+p6
+S'wells fargo'
+p7
+sS'merck & co., inc'
+p8
+S'merck'
+p9
+sS'ibm: cognitive analytics'
+p10
+S'ibm'
+p11
+sS'cisco systems'
+p12
+S'cisco systems'
+p13
+sS'west side ecumenical ministry'
+p14
+S'west'
+p15
+sS'ibm spss'
+p16
+g11
+sS'lockheed martin - advanced technology labs'
+p17
+S'lockheed martin'
+p18
+sS'pigeons west'
+p19
+g15
+sS'washington square news'
+p20
+S'news'
+p21
+sS'american express/m2resources'
+p22
+S'express'
+p23
+sS'tacoda / aol'
+p24
+S'aol'
+p25
+sS'microsoft - windows azure'
+p26
+S'microsoft'
+p27
+sS'adobe systems incorporated'
+p28
+S'adobe systems'
+p29
+sS'stubhub \\ ebay'
+p30
+S'ebay'
+p31
+sS'bank of america merrill lynch'
+p32
+S'bank of america'
+p33
+sS'mattel, inc.'
+p34
+S'mattel'
+p35
+sS'genworth financial'
+p36
+S'genworth financial'
+p37
+sS'aig, science team'
+p38
+S'aig'
+p39
+sS'intel corporation'
+p40
+S'intel'
+p41
+sS'oracle korea'
+p42
+S'oracle'
+p43
+sS'st. jude medical'
+p44
+S'st. jude medical'
+p45
+sS'scripps lifestyle network at scripps networks interactive'
+p46
+S'scripps networks interactive'
+p47
+sS'computer sciences corp. (csc)'
+p48
+S'computer sciences'
+p49
+sS'at&t big data'
+p50
+S'at&t'
+p51
+sS'northrop grumman'
+p52
+S'northrop grumman'
+p53
+sS'cme group'
+p54
+S'cme group'
+p55
+sS'brunswick corporation'
+p56
+S'brunswick'
+p57
+sS'project:  microsoft smsg readiness'
+p58
+g27
+sS'ibm danmark aps'
+p59
+g11
+sS'xerox research center'
+p60
+S'xerox'
+p61
+sS'united services automobile association usaa'
+p62
+S'usaa'
+p63
+sS'teksystems @ ford motor company'
+p64
+S'ford motor'
+p65
+sS'at&t foundry'
+p66
+g51
+sS'facebook'
+p67
+S'facebook'
+p68
+sS'northern trust hedge fund services'
+p69
+S'northern trust'
+p70
+sS'yahoo search marketing (formerly overture)'
+p71
+S'yahoo'
+p72
+sS'intel corp'
+p73
+g41
+sS'streamsage, comcast search and discovery'
+p74
+S'comcast'
+p75
+sS'european southern observatory'
+p76
+S'southern'
+p77
+sS'ebay advertising'
+p78
+g31
+sS'jetblue airways'
+p79
+S'jetblue airways'
+p80
+sS'teradata labs'
+p81
+S'teradata'
+p82
+sS'anthem blue cross and blue shield'
+p83
+S'anthem'
+p84
+sS'university of southern maine'
+p85
+g77
+sS'oracle education'
+p86
+g43
+sS'pitney bowes'
+p87
+S'pitney bowes'
+p88
+sS'dow chemical'
+p89
+S'dow chemical'
+p90
+sS'revolution analytics now microsoft advanced analytics'
+p91
+g27
+sS'stubhub - ebay'
+p92
+g31
+sS'ibm watson research'
+p93
+g11
+sS'ford motor company'
+p94
+g65
+sS'northrop grumman corporation'
+p95
+g53
+sS'tyson foods inc'
+p96
+S'tyson foods'
+p97
+sS'merck co inc'
+p98
+S'merck'
+p99
+sS'ibm india software labs'
+p100
+g11
+sS'monsanto'
+p101
+S'monsanto'
+p102
+sS'unitedhealth group'
+p103
+S'unitedhealth group'
+p104
+sS'carmax'
+p105
+S'carmax'
+p106
+sS'hp enterprise services'
+p107
+S'hp'
+p108
+sS'metlife inc'
+p109
+S'metlife'
+p110
+sS'ups'
+p111
+S'ups'
+p112
+sS'architecture@zero (pg&e) open design community'
+p113
+S'pg&e'
+p114
+sS'kemper'
+p115
+S'kemper'
+p116
+sS'universal music group'
+p117
+S'universal'
+p118
+sS'joy global inc.'
+p119
+S'joy global'
+p120
+sS'coca-cola refreshments'
+p121
+S'coca-cola'
+p122
+sS'yahoo! research'
+p123
+g72
+sS'kla-tencor, central marketing, wafer inspection group'
+p124
+S'kla-tencor'
+p125
+sS'disney research pittsburgh'
+p126
+g5
+sS'c.h. robinson worldwide, inc.'
+p127
+S'c.h. robinson worldwide'
+p128
+sS'harley-davidson motor company'
+p129
+S'harley-davidson'
+p130
+sS'3m cogent'
+p131
+S'3m'
+p132
+sS'molina healthcare'
+p133
+S'molina healthcare'
+p134
+sS'reinsurance group of america'
+p135
+S'reinsurance group of america'
+p136
+sS'bio-rad laboratories'
+p137
+S'bio-rad laboratories'
+p138
+sS'east-west center'
+p139
+g15
+sS'midas+ solutions, a xerox company'
+p140
+g61
+sS"moody's investors service"
+p141
+S"moody's"
+p142
+sS'general motors'
+p143
+S'general motors'
+p144
+sS'microsoft corp.'
+p145
+g27
+sS'caterpillar trimble control technologies llc'
+p146
+S'caterpillar'
+p147
+sS'con-way freight'
+p148
+S'con-way'
+p149
+sS'mondelez international'
+p150
+S'mondelez international'
+p151
+sS'netapp solidfire'
+p152
+S'netapp'
+p153
+sS'cityeats - scripps networks interactive'
+p154
+g47
+sS'wellcare health plans'
+p155
+S'wellcare health plans'
+p156
+sS'at&t mobility'
+p157
+g51
+sS'anthem'
+p158
+g84
+sS'tyson foods'
+p159
+S'tyson foods'
+p160
+sS'contract at monsanto company'
+p161
+g102
+sS'convertro (aol)'
+p162
+g25
+sS'tiaa-cref'
+p163
+S'tiaa-cref'
+p164
+sS'mathematical sciences research institute (berkeley, ca)'
+p165
+S'ca'
+p166
+sS'stanley black & decker, inc.'
+p167
+S'stanley black & decker'
+p168
+sS'the planet / softlayer / ibm'
+p169
+g11
+sS'clorox'
+p170
+S'clorox'
+p171
+sS'3m'
+p172
+g132
+sS'lockheed martin space operations'
+p173
+g18
+sS'boeing - bca features strategy'
+p174
+S'boeing'
+p175
+sS'microsoft (fiveby solutions inc)'
+p176
+g27
+sS'disney'
+p177
+S'disney'
+p178
+sS'twice (acquired by ebay)'
+p179
+g31
+sS'varian medical systems'
+p180
+S'varian medical systems'
+p181
+sS'litton guidance & controls (now part of northrop grumman/formerly teledyne systems company)'
+p182
+g53
+sS'nhs south west london'
+p183
+g15
+sS'allstate'
+p184
+S'allstate'
+p185
+sS'cbs interactive'
+p186
+S'cbs'
+p187
+sS'health sciences & technology academy, west virginia'
+p188
+g15
+sS'the coca-cola company'
+p189
+g122
+sS'bank of the west'
+p190
+g15
+sS'first data corporation'
+p191
+S'first data'
+p192
+sS'wd, a western digital company'
+p193
+S'western digital'
+p194
+sS'sandisk'
+p195
+S'sandisk'
+p196
+sS"coventry workers' comp services, an aetna company"
+p197
+S'aetna'
+p198
+sS'polaris industries inc'
+p199
+S'polaris industries'
+p200
+sS'new media lab- southern illinois university'
+p201
+g77
+sS'ixi corporation (an equifax company)'
+p202
+S'equifax'
+p203
+sS'kellogg company - morning star'
+p204
+S'kellogg'
+p205
+sS'pfizer pharmaceuticals'
+p206
+S'pfizer'
+p207
+sS'ebay inc'
+p208
+g31
+sS'southern cross engineering'
+p209
+S'southern'
+p210
+sS'intel micron flash'
+p211
+g41
+sS'ibm research division'
+p212
+g11
+sS'unitedhealth group- business process & quality management'
+p213
+g104
+sS'agilent technologies inc'
+p214
+S'agilent technologies'
+p215
+sS'cognizant technology solutions'
+p216
+S'cognizant technology solutions'
+p217
+sS'microsoft '
+p218
+g27
+sS'ibm in ireland'
+p219
+g11
+sS'cvs health'
+p220
+S'cvs health'
+p221
+sS"macy's inc"
+p222
+S"macy's"
+p223
+sS'levi strauss & co.'
+p224
+S'levi strauss'
+p225
+sS'skilledup, a division of apollo education group'
+p226
+S'apollo education group'
+p227
+sS'southern illinois university'
+p228
+g77
+sS'johnson & johnson'
+p229
+S'johnson & johnson'
+p230
+sS'ford motor credit company'
+p231
+g65
+sS'mccormick'
+p232
+S'mccormick'
+p233
+sS'wells fargo & co.'
+p234
+g7
+sS'flowserve corporation'
+p235
+S'flowserve'
+p236
+sS'amazon.com'
+p237
+S'amazon'
+p238
+sS'news corporation/various'
+p239
+g21
+sS'united technologies corp'
+p240
+S'united technologies'
+p241
+sS"kohl's department stores"
+p242
+S"kohl's"
+p243
+sS'intel lab at berkeley'
+p244
+g41
+sS'at&t'
+p245
+g51
+sS'texas instruments, central research laboratories'
+p246
+S'texas instruments'
+p247
+sS'pfizer/american medical systems'
+p248
+g207
+sS'chesapeake energy'
+p249
+S'chesapeake energy'
+p250
+sS'general electric global research'
+p251
+S'general electric'
+p252
+sS'ibm worldwide advanced analytics center of competence'
+p253
+g11
+sS'leidos, formerly lockheed martin'
+p254
+g18
+sS'plexus medical group'
+p255
+S'plexus'
+p256
+sS'intel research, seattle, washington'
+p257
+g41
+sS'southern regional education board'
+p258
+g77
+sS'google life sciences'
+p259
+S'google'
+p260
+sS'under armour'
+p261
+S'under armour'
+p262
+sS'pepsico - frito lay'
+p263
+S'pepsico'
+p264
+sS'available fulltime or contract: prefer 661-607-2911 or alternate chris.lukin@yahoo.com'
+p265
+g72
+sS'cummins turbo technology'
+p266
+S'cummins'
+p267
+sS'comcast'
+p268
+g75
+sS'university of waterloo / cisco systems'
+p269
+g13
+sS'carma international \xe2\x80\x93 global news analysis'
+p270
+g21
+sS'3m drug delivery systems division'
+p271
+g132
+sS'intel capital'
+p272
+g41
+sS'northrop grumman missions systems'
+p273
+g53
+sS"macy's analytics"
+p274
+S"macy's"
+p275
+sS'expedia'
+p276
+S'expedia'
+p277
+sS'united technologies corporation'
+p278
+g241
+sS'progrexion teleservices - west valley city'
+p279
+S'west'
+p280
+sS'procter & gamble'
+p281
+S'procter & gamble'
+p282
+sS'frozen food express industries, inc'
+p283
+g23
+sS'state street global advisors'
+p284
+S'state street'
+p285
+sS'yahoo'
+p286
+g72
+sS'advertising.com (aol)'
+p287
+g25
+sS'plexus technologies'
+p288
+g256
+sS'impermium (acq. by google)'
+p289
+g260
+sS'sabre holdings corporation'
+p290
+S'sabre'
+p291
+sS'laboratory for neural dynamics, university of southern california'
+p292
+g77
+sS'ingram micro'
+p293
+S'ingram micro'
+p294
+sS'kla-tencor (acquired by lam research)'
+p295
+S'lam research'
+p296
+sS'precisiondemand, now a part of aol'
+p297
+g25
+sS'eastman kodak company'
+p298
+S'eastman kodak'
+p299
+sS'ibm watson research - pfizer'
+p300
+g11
+sS'kraft foods group'
+p301
+S'kraft foods group'
+p302
+sS'cardinal health'
+p303
+S'cardinal health'
+p304
+sS'salesforce'
+p305
+S'salesforce'
+p306
+sS'ibm'
+p307
+g11
+sS'explorys, an ibm company'
+p308
+g11
+sS'convergys'
+p309
+S'convergys'
+p310
+sS'general dynamics information technology'
+p311
+S'general dynamics'
+p312
+sS'mosaic data science'
+p313
+S'mosaic'
+p314
+sS'at&t labs, inc.'
+p315
+g51
+sS'hgst a western digital company'
+p316
+g194
+sS'franklin w. olin college of engineering'
+p317
+S'olin'
+p318
+sS'general dynamics fidelis cybersecurity solutions'
+p319
+g312
+sS'initiative, interpublic group'
+p320
+S'interpublic group'
+p321
+sS'at&t (cricket wireless)'
+p322
+g51
+sS'ebay enterprise'
+p323
+g31
+sS'microsoft research asia'
+p324
+g27
+sS'unitedhealth group, optuminsight'
+p325
+g104
+sS'ibm corp'
+p326
+g11
+sS'ralph lauren'
+p327
+S'ralph lauren'
+p328
+sS'hewlett-packard (hp)'
+p329
+g108
+sS'the dow chemical company'
+p330
+g90
+sS'kimberly-clark'
+p331
+S'kimberly-clark'
+p332
+sS'texas instruments'
+p333
+g247
+sS'center for archaeological investigations - southern illinois university'
+p334
+g77
+sS'at&t labs - research'
+p335
+g51
+sS'cloudant / ibm - cloud data services'
+p336
+g11
+sS'amerisourcebergen corporation - corporate'
+p337
+S'amerisourcebergen'
+p338
+sS'walmart labs'
+p339
+S'walmart'
+p340
+sS'the hershey company'
+p341
+S'hershey'
+p342
+sS'microsoft finance - solution delivery'
+p343
+g27
+sS'plexus vaccine inc.'
+p344
+g256
+sS'lockheed martin (teksystems contractor)'
+p345
+g18
+sS'apple inc/ intelliswift'
+p346
+S'apple'
+p347
+sS'scripps networks interactive inc'
+p348
+S'scripps networks interactive'
+p349
+sS'the hapoos express'
+p350
+g23
+sS'computer sciences raytheon'
+p351
+g49
+sS'united technologies'
+p352
+S'united technologies'
+p353
+sS'ball state university'
+p354
+S'ball'
+p355
+sS'exide technologies'
+p356
+S'exide technologies'
+p357
+sS'universal american'
+p358
+S'universal american'
+p359
+sS'advance auto parts'
+p360
+S'advance auto parts'
+p361
+sS'wyeth research (now pfizer r&d)'
+p362
+g207
+sS'equinix'
+p363
+S'equinix'
+p364
+sS'lantiq an intel company'
+p365
+g41
+sS'cisco systems inc'
+p366
+g13
+sS'csx'
+p367
+S'csx'
+p368
+sS'kipling and kirby'
+p369
+S'kirby'
+p370
+sS'ibm china research laboratory'
+p371
+g11
+sS'bed bath & beyond'
+p372
+S'bed bath & beyond'
+p373
+sS'gap inc./gap inc. direct'
+p374
+S'gap'
+p375
+sS'linkedin \xe9\xa2\x86\xe8\x8b\xb1\xe4\xb8\xad\xe5\x9b\xbd'
+p376
+S'linkedin'
+p377
+sS'baker hughes'
+p378
+S'baker hughes'
+p379
+sS'synopsys'
+p380
+S'synopsys'
+p381
+sS'torchmark / liberty national'
+p382
+S'torchmark'
+p383
+sS'fannie mae'
+p384
+S'fannie mae'
+p385
+sS'xerox research centre europe'
+p386
+g61
+sS'baxter international inc.'
+p387
+S'baxter international'
+p388
+sS'comerica'
+p389
+S'comerica'
+p390
+sS'wells fargo bank'
+p391
+g7
+sS'mckesson corp.'
+p392
+S'mckesson'
+p393
+sS'country financial'
+p394
+S'country financial'
+p395
+sS'halliburton'
+p396
+S'halliburton'
+p397
+sS'outerwall'
+p398
+S'outerwall'
+p399
+sS'genworth financial inc'
+p400
+S'genworth financial'
+p401
+sS'dow agrosciences, dow chemical co.'
+p402
+g90
+sS'prudential financial'
+p403
+S'prudential financial'
+p404
+sS'assurant'
+p405
+S'assurant'
+p406
+sS'wrenchead, inc. (now part of ebay motors)'
+p407
+g31
+sS'office of aids, ca dept of health services'
+p408
+g166
+sS'business wire (berkshire hathaway company)'
+p409
+S'berkshire hathaway'
+p410
+sS'american family insurance group'
+p411
+S'american family insurance group'
+p412
+sS'target marketeam'
+p413
+S'target'
+p414
+sS'boeing'
+p415
+g175
+sS'norfolk southern'
+p416
+g77
+sS'directv inc.'
+p417
+S'directv'
+p418
+sS'electronic arts, pogo'
+p419
+S'electronic arts'
+p420
+sS'google, on contract via harvey nash'
+p421
+g260
+sS'amazon'
+p422
+g238
+sS'verizon telecommunications'
+p423
+S'verizon'
+p424
+sS'johnson controls'
+p425
+S'johnson controls'
+p426
+sS'prokarma/union pacific'
+p427
+S'union pacific'
+p428
+sS'nvidia'
+p429
+S'nvidia'
+p430
+sS'at&t interactive'
+p431
+g51
+sS'becton dickinson diabetes care'
+p432
+S'becton dickinson'
+p433
+sS'alliance data systems corporation'
+p434
+S'alliance data systems'
+p435
+sS'sabre airline solutions'
+p436
+S'sabre'
+p437
+sS'arbora & ausonia (procter & gamble jv)'
+p438
+g282
+sS'data quality expert -trillium software and informatica, talend, cognizant technology solutions,'
+p439
+g217
+sS'demandtec, an ibm company'
+p440
+g11
+sS'walgreens'
+p441
+S'walgreens'
+p442
+sS'dish network'
+p443
+S'dish network'
+p444
+sS'xerox corporation'
+p445
+g61
+sS'jabil circuit'
+p446
+S'jabil circuit'
+p447
+sS'duke energy initiative and becr center'
+p448
+S'duke energy'
+p449
+sS'mis department, jon m. huntsman school of business, utah state university'
+p450
+S'huntsman'
+p451
+sS'directv'
+p452
+g418
+sS'owens corning headquarters'
+p453
+S'owens corning'
+p454
+sS'kroger company'
+p455
+S'kroger'
+p456
+sS'itt'
+p457
+S'itt'
+p458
+sS'google inc'
+p459
+g260
+sS'heartland payment systems'
+p460
+S'heartland payment systems'
+p461
+sS'microsoft research'
+p462
+g27
+sS'sandisk, a western digital brand'
+p463
+g196
+sS'nordstrom'
+p464
+S'nordstrom'
+p465
+sS'danaher labs'
+p466
+S'danaher'
+p467
+sS'yahoo! labs'
+p468
+g72
+sS'netflix open source committer'
+p469
+S'netflix'
+p470
+sS'analog devices inc'
+p471
+S'analog devices'
+p472
+sS'teco energy'
+p473
+S'teco energy'
+p474
+sS'universal instruments'
+p475
+g118
+sS'oracle india pvt ltd'
+p476
+g43
+sS'prudential financial inc'
+p477
+S'prudential financial'
+p478
+sS'apple retail junior internship'
+p479
+g347
+sS'owens-corning fiberglas corporation'
+p480
+S'corning'
+p481
+sS'procter & gamble, mumbai'
+p482
+g282
+sS'kelly services'
+p483
+S'kelly services'
+p484
+sS'cognizant consultant at citrix systems, inc'
+p485
+S'citrix systems'
+p486
+sS'chrzan lab group/lawrence berkeley national lab, berkeley, ca'
+p487
+g166
+sS'12 west capital'
+p488
+g15
+sS'morgan stanley'
+p489
+S'morgan stanley'
+p490
+sS'aetna hhl'
+p491
+g198
+sS'wyndham worldwide'
+p492
+S'wyndham worldwide'
+p493
+sS'southwest airlines'
+p494
+S'southwest airlines'
+p495
+sS'karate west'
+p496
+g15
+sS'at&t labs research'
+p497
+g51
+sS"moody's analytics"
+p498
+g142
+sS'caterpillar'
+p499
+S'caterpillar'
+p500
+sS'biogen idec inc.  (via keane inc)'
+p501
+S'biogen'
+p502
+sS'starbucks'
+p503
+S'starbucks'
+p504
+sS'west valley college'
+p505
+g15
+sS'gap year'
+p506
+g375
+sS'dell emc'
+p507
+S'emc'
+p508
+sS'textron'
+p509
+S'textron'
+p510
+sS'ppl'
+p511
+S'ppl'
+p512
+sS'csc - computer sciences corporation'
+p513
+g49
+sS'information science institute, university of southern california'
+p514
+g77
+sS'staples'
+p515
+S'staples'
+p516
+sS'at&t mobile tel'
+p517
+g51
+sS'lynda.com at linkedin'
+p518
+g377
+sS'thermo fisher scientific, inc'
+p519
+S'thermo fisher scientific'
+p520
+sS'intercontinental exchange'
+p521
+S'intercontinental exchange'
+p522
+sS'advertising.com, a division of aol networks'
+p523
+g25
+sS'micron technology inc'
+p524
+S'micron technology'
+p525
+sS'the boeing company'
+p526
+g175
+sS'sigma-aldrich'
+p527
+S'sigma-aldrich'
+p528
+sS'prudential financial - quantitative research & risk management'
+p529
+g404
+sS'raytheon'
+p530
+S'raytheon'
+p531
+sS'statistical consulting unit (scu), georgia southern university'
+p532
+g77
+sS'procter & gamble research center, university of cincinnati'
+p533
+g282
+sS'johnson & johnson (babycenter llc)'
+p534
+g230
+sS'netscape/aol'
+p535
+g25
+sS'mastercard'
+p536
+S'mastercard'
+p537
+sS"kohl's digital center silicon valley"
+p538
+g243
+sS'covance discovery and translational services, biomarker center of excellence'
+p539
+S'covance'
+p540
+sS'at&t wireless / cingular wireless'
+p541
+g51
+sS'motorola solutions'
+p542
+S'motorola solutions'
+p543
+sS'southern methodist university'
+p544
+g77
+sS'eog resources'
+p545
+S'eog resources'
+p546
+sS'avery dennison (thru tcs)'
+p547
+S'avery dennison'
+p548
+sS'hp labs/ agilent technologies labs'
+p549
+S'agilent technologies'
+p550
+sS'microsoft china'
+p551
+g27
+sS'dst systems inc'
+p552
+S'dst systems'
+p553
+sS'chevron'
+p554
+S'chevron'
+p555
+sS'auto-owners insurance'
+p556
+S'auto-owners insurance'
+p557
+sS'exelon'
+p558
+S'exelon'
+p559
+sS'ups (thru tcs)'
+p560
+g112
+sS'microsoft research nyc'
+p561
+g27
+sS'kla-tencor'
+p562
+g125
+sS'cuna mutual group (through tek systems)'
+p563
+S'cuna mutual group'
+p564
+sS'adobe systems'
+p565
+S'adobe systems'
+p566
+sS'united states gypsum (usg) - client'
+p567
+S'usg'
+p568
+sS'wells fargo advisors financial network'
+p569
+g7
+sS'danaher corporation'
+p570
+g467
+sS'kimberly-clark, india'
+p571
+g332
+sS'aecom'
+p572
+S'aecom'
+p573
+sS' english news'
+p574
+g21
+sS'ally financial inc.'
+p575
+S'ally financial'
+p576
+sS'merck & co., inc.'
+p577
+g9
+sS'southern california edison'
+p578
+g77
+sS'microsoft - visual studio'
+p579
+g27
+sS'dsw'
+p580
+S'dsw'
+p581
+sS'the walt disney company'
+p582
+g5
+sS'unitedhealth group inc'
+p583
+S'unitedhealth group'
+p584
+sS'verizon data services, chennai'
+p585
+g424
+sS'southern bridge international'
+p586
+g77
+sS'wells fargo india solutions'
+p587
+g7
+sS'the clorox company'
+p588
+g171
+sS'avis budget group'
+p589
+S'avis budget group'
+p590
+sS'narus/boeing'
+p591
+g175
+sS'audible, inc., an amazon company'
+p592
+g238
+sS'yahoo bangalore'
+p593
+g72
+sS'aol'
+p594
+g25
+sS'igt (formerly gtech), a subsidiary of international game technology plc'
+p595
+S'international game technology'
+p596
+sS'microsoft, skype division'
+p597
+g27
+sS'northrop grumman information systems'
+p598
+g53
+sS'at&t bell labs - ingres - openvision'
+p599
+g51
+sS'devon energy corp'
+p600
+S'devon energy'
+p601
+sS'ihs, inc.'
+p602
+S'ihs'
+p603
+sS'blackrock fixed income global alpha'
+p604
+S'blackrock'
+p605
+sS'swarm mobile (acquired by groupon)'
+p606
+S'groupon'
+p607
+sS'sirf technology (acquired by qualcomm), lcg consulting, ironport systems (acquired by cisco)'
+p608
+S'qualcomm'
+p609
+sS'oracle data cloud'
+p610
+g43
+sS'western digital corporation'
+p611
+g194
+sS'northrop grumman aerospace systems'
+p612
+g53
+sS'pitney bowes software'
+p613
+g88
+sS'foot locker'
+p614
+S'foot locker'
+p615
+sS'caterpillar inc.'
+p616
+g147
+sS'raytheon stx'
+p617
+g531
+sS'raytheon itss'
+p618
+g531
+sS"research institute at nationwide children's hospital"
+p619
+S'nationwide'
+p620
+sS'oracle corporation'
+p621
+g43
+sS'ibm almaden research center'
+p622
+g11
+sS'fiserv eft'
+p623
+S'fiserv'
+p624
+sS'staples, inc.'
+p625
+g516
+sS'pfizer global research & development'
+p626
+g207
+sS'alcoa'
+p627
+S'alcoa'
+p628
+sS'pricewaterhousecoopers (now ibm)'
+p629
+g11
+sS'google business group warsaw'
+p630
+g260
+sS'msci inc (formerly morgan stanley capital international & msci barra)'
+p631
+g490
+sS'walmart'
+p632
+g340
+sS'at&t inc'
+p633
+g51
+sS'the home depot'
+p634
+S'home depot'
+p635
+sS'verizon wireless'
+p636
+g424
+sS'xilinx'
+p637
+S'xilinx'
+p638
+sS'southern cross management services inc'
+p639
+g77
+sS'disney abc television group'
+p640
+g5
+sS'google summer of code'
+p641
+g260
+sS'raymond james financial'
+p642
+S'raymond james financial'
+p643
+sS'lexisnexis martindale-hubbell'
+p644
+S'hubbell'
+p645
+sS'microsoft display advertising, microsoft corp.'
+p646
+g27
+sS'batelle center for mathematical medicine, nationwide childrens hospital'
+p647
+g620
+sS"copal amba (a moody's analytics company)"
+p648
+g142
+sS'mckesson'
+p649
+g393
+sS'general dynamics - electric boat'
+p650
+g312
+sS'flowserve'
+p651
+g236
+sS'ihs'
+p652
+g603
+sS'universal audio'
+p653
+g118
+sS'west & vaughn advertising agency'
+p654
+g15
+sS'merck & co'
+p655
+g9
+sS'new york life insurance company'
+p656
+S'new york life insurance'
+p657
+sS'varian medical systems inc'
+p658
+S'varian medical systems'
+p659
+sS'hybrid news group'
+p660
+g21
+sS'ibm watson health'
+p661
+g11
+sS'yahoo labs'
+p662
+g72
+sS'independent peoplesoft/oracle and business intelligence consultant'
+p663
+g43
+sS'lockheed martin information systems advanced simulation center'
+p664
+g18
+sS'ibm watson'
+p665
+g11
+sS'aetna inc'
+p666
+S'aetna'
+p667
+sS'h&r block'
+p668
+S'h&r block'
+p669
+sS'bristol-myers squibb'
+p670
+S'bristol-myers squibb'
+p671
+sS'autodesk (cloud platforms division)'
+p672
+S'autodesk'
+p673
+sS'boeing commercial airplanes'
+p674
+g175
+sS'the janssen pharmaceutical companies of johnson & johnson'
+p675
+g230
+sS'microsoft bing'
+p676
+g27
+sS'western union'
+p677
+S'western union'
+p678
+sS'caci international inc'
+p679
+S'caci international'
+p680
+sS'owens corning'
+p681
+S'owens corning'
+p682
+sS'broadcom'
+p683
+S'broadcom'
+p684
+sS'target corp.'
+p685
+g414
+sS'harris'
+p686
+S'harris'
+p687
+sS'microsoft corporation - emea'
+p688
+g27
+sS'boston scientific neuromodulation'
+p689
+S'boston scientific'
+p690
+sS'yahoo! china \xe4\xb8\xad\xe5\x9b\xbd\xe9\x9b\x85\xe8\x99\x8e'
+p691
+g72
+sS'ibm research almaden'
+p692
+g11
+sS'myfitnesspal (under armour connected fitness)'
+p693
+g262
+sS'symantec (acquired narus)'
+p694
+S'symantec'
+p695
+sS'cigna health care'
+p696
+S'cigna'
+p697
+sS'softlayer, an ibm company'
+p698
+g11
+sS'conocophillips'
+p699
+S'conocophillips'
+p700
+sS'university of southern california, rand'
+p701
+g77
+sS'at&t concert'
+p702
+g51
+sS'constellation brands'
+p703
+S'constellation brands'
+p704
+sS'fidelity national information services'
+p705
+S'fidelity national information services'
+p706
+sS'qualcomm inc.'
+p707
+g609
+sS'ibm france'
+p708
+g11
+sS'hanover insurance group inc'
+p709
+S'hanover insurance group'
+p710
+sS'm-factor (acquired by ibm demandtec)'
+p711
+g11
+sS'ncr'
+p712
+S'ncr'
+p713
+sS'panera bread'
+p714
+S'panera bread'
+p715
+sS'gtech, a subsidiary of international game technology plc'
+p716
+g596
+sS'tetra tech'
+p717
+S'tetra tech'
+p718
+sS'intel corporation, tmg/cqn'
+p719
+g41
+sS'university of southern california, san francisco department of aging and adult services'
+p720
+g77
+sS'office depot'
+p721
+S'office depot'
+p722
+sS'williams college athletics'
+p723
+S'williams'
+p724
+sS'corning'
+p725
+g481
+sS'gsi commerce(ebay inc)'
+p726
+g31
+sS'cerner'
+p727
+S'cerner'
+p728
+sS'contract for express-scripts, inc.'
+p729
+g23
+sS'universal mccann'
+p730
+g118
+sS'european southern observatory / observatoire de paris / cnrs'
+p731
+g77
+sS'motorola mobility (a google company)'
+p732
+g260
+sS'unitedhealth group- corporate'
+p733
+g104
+sS'merck sharp & dohme latin america'
+p734
+g9
+sS'america online (aol) - advertising.com'
+p735
+g25
+sS'target'
+p736
+g414
+sS'yahoo! inc.'
+p737
+g72
+sS'norfolk southern corporation'
+p738
+g77
+sS'ball corporation'
+p739
+g355
+sS'raytheon bbn technologies'
+p740
+g531
+sS'ebay'
+p741
+g31
+sS'division of biostatistics, university of southern california'
+p742
+g77
+sS'zoetis / pfizer animal health'
+p743
+S'zoetis'
+p744
+sS'merck'
+p745
+g9
+sS'ncr corporation'
+p746
+g713
+sS'ibm, global business services'
+p747
+g11
+sS'target corporation'
+p748
+g414
+sS'kellogg school of management'
+p749
+g205
+sS'humana (former healthrageous)'
+p750
+S'humana'
+p751
+sS'american pool services of georgia'
+p752
+S'pool'
+p753
+sS'hospira'
+p754
+S'hospira'
+p755
+sS'anthem inc'
+p756
+S'anthem'
+p757
+sS'stubhub (ebay)'
+p758
+g31
+sS'alephd by aol'
+p759
+g25
+sS'securian financial group'
+p760
+S'securian financial group'
+p761
+sS'avaya government solutions'
+p762
+S'avaya'
+p763
+sS'agco corporation'
+p764
+S'agco'
+p765
+sS'nordstrom data labs'
+p766
+g465
+sS'regeneron pharmaceuticals, inc.'
+p767
+S'regeneron pharmaceuticals'
+p768
+sS'southern company'
+p769
+g77
+sS'general dynamics information systems'
+p770
+g312
+sS'electronic arts (ea)'
+p771
+g420
+sS'intuit inc.'
+p772
+S'intuit'
+p773
+sS'nvidia corporation'
+p774
+g430
+sS'viacom media networks'
+p775
+S'viacom'
+p776
+sS'mediaflo qualcomm usa'
+p777
+g609
+sS'directv latin america'
+p778
+g418
+sS'general electric global research center'
+p779
+g252
+sS'emc corporation'
+p780
+g508
+sS'pfc energy \xe2\x80\x93 acquired by ihs in june 2013'
+p781
+g603
+sS'suntrust banks'
+p782
+S'suntrust banks'
+p783
+sS'west end station bar and grill'
+p784
+g15
+sS'unitedhealth group- c&s benefit operations'
+p785
+g104
+sS'texas southern university'
+p786
+g77
+sS'iron mountain'
+p787
+S'iron mountain'
+p788
+sS'msx international - ford motor credit company'
+p789
+g65
+sS'donaldson research'
+p790
+S'donaldson'
+p791
+sS'sabre holdings'
+p792
+g437
+sS'microsoft (via tata consultancy services)'
+p793
+g27
+sS'groupon'
+p794
+g607
+sS'ibm global business process services'
+p795
+g11
+sS'ibm global services'
+p796
+g11
+sS'express information systems'
+p797
+g23
+sS'phillips 66'
+p798
+S'phillips 66'
+p799
+sS'john deere credit'
+p800
+S'deere'
+p801
+sS'marriott international inc'
+p802
+S'marriott international'
+p803
+sS'hp'
+p804
+g108
+sS'assurant inc'
+p805
+S'assurant'
+p806
+sS'barnes & noble college'
+p807
+S'barnes & noble'
+p808
+sS'verizon corporate'
+p809
+g424
+sS'gap inc./growth, innovation, digital (gid), a division of gap, inc.'
+p810
+g375
+sS'a9/amazon'
+p811
+g238
+sS'wuhan lear-dfm auto electric co., ltd.'
+p812
+S'lear'
+p813
+sS'microsoft with volt technical resource'
+p814
+g27
+sS'fedex service - marketing analytics and planning'
+p815
+S'fedex'
+p816
+sS'raytheon space and airborne systems'
+p817
+g531
+sS'pitney bowes advanced concepts & technology'
+p818
+g88
+sS'visa inc.'
+p819
+S'visa'
+p820
+sS'microsoft, seu training program ii'
+p821
+g27
+sS'adt security'
+p822
+S'adt'
+p823
+sS'visa'
+p824
+g820
+sS'simon property group'
+p825
+S'simon property group'
+p826
+sS'groupon italy'
+p827
+g607
+sS'ibm corporation'
+p828
+g11
+sS'wells fargo advisors'
+p829
+g7
+sS'apache spark contributor'
+p830
+S'apache'
+p831
+sS'huntington bancshares inc'
+p832
+S'huntington bancshares'
+p833
+sS'university of southern california'
+p834
+g77
+sS'microsoft research, search labs'
+p835
+g27
+sS'unitedhealth group / optum 360'
+p836
+g104
+sS'kpit cummins infosystems limited'
+p837
+g267
+sS'duke energy'
+p838
+g449
+sS'3m companies'
+p839
+S'3m'
+p840
+sS'discover financial services'
+p841
+S'discover financial services'
+p842
+sS'abercrombie & fitch'
+p843
+S'abercrombie & fitch'
+p844
+sS'john deere'
+p845
+g801
+sS'intel online services'
+p846
+g41
+sS'qualcomm innovation center'
+p847
+g609
+sS'intel corporation, software & services group'
+p848
+g41
+sS'ibm tj watson research center'
+p849
+g11
+sS'wells fargo'
+p850
+g7
+sS'first data'
+p851
+g192
+sS'yahoo!'
+p852
+g72
+sS'walmart global ecommerce'
+p853
+g340
+sS'convergys (formerly digitalthink)'
+p854
+g310
+sS'general dynamics advanced information systems'
+p855
+g312
+sS'eastman kodak'
+p856
+g299
+sS'nationwide accident repair services'
+p857
+g620
+sS'western union digital ventures'
+p858
+g678
+sS'microsoft research india'
+p859
+g27
+sS'entergy'
+p860
+S'entergy'
+p861
+sS'xerox research centre of canada'
+p862
+g61
+sS'visa - global information security'
+p863
+g820
+sS'cdw'
+p864
+S'cdw'
+p865
+sS'sears holdings corporation'
+p866
+S'sears holdings'
+p867
+sS'aig, science'
+p868
+g39
+sS'walt disney world'
+p869
+g5
+sS'unitedhealth group - optum technology'
+p870
+g104
+sS'wells fargo securities'
+p871
+g7
+sS'teradata aster'
+p872
+g82
+sS'universal scientific industrial co., ltd.'
+p873
+g118
+sS'kkr-yanchang global energy fund'
+p874
+S'kkr'
+p875
+sS'caci international (formerly l-3 nss)'
+p876
+S'caci international'
+p877
+sS'various start-ups'
+p878
+g112
+sS'oracle, advanced customer & campaign analytics'
+p879
+g43
+sS'goldman sachs group, inc'
+p880
+S'goldman sachs group'
+p881
+sS'southern illinois university edwardsville'
+p882
+g77
+sS'xpo logistics, inc.'
+p883
+S'xpo logistics'
+p884
+sS'oracle usa - national security group'
+p885
+g43
+sS"kellogg's"
+p886
+S'kellogg'
+p887
+sS'noble energy inc'
+p888
+S'noble energy'
+p889
+sS'news corp'
+p890
+g21
+sS'blackrock'
+p891
+g605
+sS'steelcase inc'
+p892
+S'steelcase'
+p893
+sS'university of west london'
+p894
+g15
+sS'fedex services - pricing science and engineering'
+p895
+g816
+sS'enterprise risk management, bank of the west'
+p896
+g15
+sS'blackrock inc'
+p897
+S'blackrock'
+p898
+sS'best buy'
+p899
+S'best buy'
+p900
+sS'comcast silicon valley innovation center'
+p901
+g75
+sS'towers watson'
+p902
+S'towers watson'
+p903
+sS'west cary group'
+p904
+g15
+sS'marathon oil company'
+p905
+S'marathon oil'
+p906
+sS'newell rubbermaid'
+p907
+S'newell rubbermaid'
+p908
+sS't. rowe price'
+p909
+S't. rowe price'
+p910
+sS'time warner cable'
+p911
+S'time warner cable'
+p912
+sS'express'
+p913
+g23
+sS'retek (now oracle retail)'
+p914
+g43
+sS'west lake partners capital llc'
+p915
+g15
+sS'ibm deutschland gmbh'
+p916
+g11
+sS'symantec corporation'
+p917
+g695
+sS'baker hughes beacon global services'
+p918
+g379
+sS'csx transportation intermodal'
+p919
+g368
+sS'viacom inc'
+p920
+S'viacom'
+p921
+sS'walmart.com'
+p922
+g340
+sS'health net'
+p923
+S'health net'
+p924
+sS'unitedhealth group- ovations'
+p925
+g104
+sS'innovative health solutions (ihs) an accuro company'
+p926
+g603
+sS'morgan stanley capital international'
+p927
+g490
+sS'alza, johnson & johnson, benefit risk management'
+p928
+g230
+sS'ibm center for advanced studies (cas)'
+p929
+g11
+sS'mobile.de / ebay'
+p930
+g31
+sS'assurant solutions'
+p931
+g406
+sS'progressive'
+p932
+S'progressive'
+p933
+sS'lhp engineering solutions - cummins inc.'
+p934
+g267
+sS'dupont'
+p935
+S'dupont'
+p936
+sS'first data  (was intelligent results)'
+p937
+g192
+sS'humana inc'
+p938
+S'humana'
+p939
+sS'eli lilly'
+p940
+S'eli lilly'
+p941
+sS'level 3 communications'
+p942
+S'level 3 communications'
+p943
+sS'universal mccann (the interpublic group)'
+p944
+g321
+sS'ibm research'
+p945
+g11
+sS'mgm resorts international'
+p946
+S'mgm resorts international'
+p947
+sS'avnet services (formerly brightstar partners)'
+p948
+S'avnet'
+p949
+sS'unitedhealth group-optum'
+p950
+g104
+sS'analytic science ii, san rafael, ca 1/2008 \xe2\x80\x93 1/2010  - primary analyst in developing fico credit'
+p951
+g166
+sS'williams college small reu'
+p952
+g724
+sS'walt disney parks and resorts online'
+p953
+g5
+sS'on-site @ ford motor credit company'
+p954
+g65
+sS'gap inc.'
+p955
+g375
+sS'ibm business performance services'
+p956
+g11
+sS'covance informatics'
+p957
+g540
+sS'lam research'
+p958
+g296
+sS'halliburton landmark'
+p959
+g397
+sS'sunpower corporation'
+p960
+S'sunpower'
+p961
+sS'qualcomm research silicon valley'
+p962
+g609
+sS'campus west liquor depot'
+p963
+g15
+sS'ibm t j watson'
+p964
+g11
+sS'fedex custom critical'
+p965
+g816
+sS'newmont mining corporation'
+p966
+S'newmont mining'
+p967
+sS'bitstream and dupont camex'
+p968
+g936
+sS'comten (later comten-ncr inc.)'
+p969
+g713
+sS'university of california, san diego, ca, usa'
+p970
+g166
+sS'school of international relations, university of southern california'
+p971
+g77
+sS'boston scientific'
+p972
+g690
+sS'humana'
+p973
+g751
+sS'paychex'
+p974
+S'paychex'
+p975
+sS'apture (acquired by google)'
+p976
+g260
+sS'duke energy corporation'
+p977
+g449
+sS'charles schwab'
+p978
+S'charles schwab'
+p979
+sS'state street bank'
+p980
+S'state street'
+p981
+sS'sabre travel network'
+p982
+g437
+sS'itt technical institute'
+p983
+g458
+sS'the times-news'
+p984
+g21
+sS'cognizant technology solutions ( center of excellence)'
+p985
+g217
+sS'apple inc'
+p986
+S'apple'
+p987
+sS'airbus group and university of the west of england'
+p988
+g15
+sS'software intelligence corporation (not intel corporation)'
+p989
+g41
+sS'biogen'
+p990
+g502
+sS'rite aid (via tata consultancy services ltd)'
+p991
+S'rite aid'
+p992
+sS'raymond james financial inc.'
+p993
+g643
+sS'exelon nuclear'
+p994
+g559
+sS'equifax'
+p995
+g203
+sS'freeport-mcmoran copper & gold inc.'
+p996
+S'freeport-mcmoran'
+p997
+sS'ibm, santa teresa lab'
+p998
+g11
+sS'pg&e neg'
+p999
+g114
+sS'ibm, almaden research center'
+p1000
+g11
+sS'american telephone & telegraph company (at&t)'
+p1001
+g51
+sS'college of southern nevada'
+p1002
+g77
+sS'at&t bell labs'
+p1003
+g51
+sS'charter communications'
+p1004
+S'charter communications'
+p1005
+sS'carlyle group blue wave fund'
+p1006
+S'carlyle group'
+p1007
+sS'carmax (auto finance)'
+p1008
+S'carmax'
+p1009
+sS'digex & verizon business'
+p1010
+g424
+sS'edison international company'
+p1011
+S'edison international'
+p1012
+sS'celgene corporation'
+p1013
+S'celgene'
+p1014
+sS'staples innovation lab/sparx'
+p1015
+g516
+sS'the weather company, an ibm business'
+p1016
+g11
+sS'thermax babcock & wilcox energy solutions private limited'
+p1017
+S'babcock & wilcox'
+p1018
+sS'microsoft (simplicity consulting)'
+p1019
+g27
+sS'chubb limited'
+p1020
+S'chubb'
+p1021
+sS'john deere electronic solutions'
+p1022
+g801
+sS'cisco systems, inc.'
+p1023
+g13
+sS'ihs global insight'
+p1024
+g603
+sS'microsoft acquired softway / interix'
+p1025
+g27
+sS'monsanto company'
+p1026
+g102
+sS'hospira, inc.'
+p1027
+g755
+sS'qualcomm mems technologies, inc'
+p1028
+g609
+sS'progressive insurance'
+p1029
+S'progressive'
+p1030
+sS'msx international, client: ford motor company'
+p1031
+g65
+sS'ciena ( worldwidepackets acquisition )'
+p1032
+S'ciena'
+p1033
+sS'amazon corporate llc'
+p1034
+S'amazon'
+p1035
+sS'boeing center for technology, information, & manufacturing, washington university'
+p1036
+g175
+sS'shanghai general motors'
+p1037
+g144
+sS'comcast interactive media'
+p1038
+g75
+sS'lockheed martin information technology'
+p1039
+g18
+sS'belk'
+p1040
+S'belk'
+p1041
+sS'gap international'
+p1042
+g375
+sS'wells fargo investment management'
+p1043
+g7
+sS'home depot'
+p1044
+g635
+sS'comcast cable'
+p1045
+g75
+sS'juniper networks'
+p1046
+S'juniper networks'
+p1047
+sS'chipotle mexican grill'
+p1048
+S'chipotle mexican grill'
+p1049
+sS'polk germany (ihs)'
+p1050
+g603
+sS'apple inc.'
+p1051
+g347
+sS'cuna mutual group'
+p1052
+g564
+sS'oracle financial services software ltd'
+p1053
+g43
+sS'embedded networks laboratory, university of southern california'
+p1054
+g77
+sS'amazon web services(aws)'
+p1055
+g238
+sS'ajilon consulting, at allstate insurance'
+p1056
+g185
+sS'bmo harris bank'
+p1057
+g687
+sS'hp labs'
+p1058
+g108
+sS'cbs corporation'
+p1059
+g187
+sS'emc'
+p1060
+g508
+sS'morgan stanley wealth management'
+p1061
+g490
+sS'dupont pioneer'
+p1062
+g936
+sS'amtrust financial services inc'
+p1063
+S'amtrust financial services'
+p1064
+sS'big data at verizon'
+p1065
+g424
+sS'mattel, inc. - sproutling'
+p1066
+g35
+sS'williams college'
+p1067
+g724
+sS'corning incorporated, environmental technologies'
+p1068
+g481
+sS'g. d. searle ( now owned by pfizer )'
+p1069
+g207
+sS'amgen'
+p1070
+S'amgen'
+p1071
+sS'aleris'
+p1072
+S'aleris'
+p1073
+sS'teradata/vistula business consulting'
+p1074
+g82
+sS'apple computer'
+p1075
+g347
+sS'regions financial corporation'
+p1076
+S'regions financial'
+p1077
+sS'williams college sports information'
+p1078
+g724
+sS'tesla motors'
+p1079
+S'tesla motors'
+p1080
+sS'aflac'
+p1081
+S'aflac'
+p1082
+sS'east west consulting (japan)'
+p1083
+g15
+sS'unitedhealth group- national appeals service center'
+p1084
+g104
+sS'scratch (viacom media networks)'
+p1085
+g776
+sS'pfizer research business technology (formerly research informatics)'
+p1086
+g207
+sS'verizon'
+p1087
+g424
+sS'the j.m. smucker company'
+p1088
+S'j.m. smucker'
+p1089
+sS'hub group'
+p1090
+S'hub group'
+p1091
+sS'at&t bell laboratories'
+p1092
+g51
+sS'mckesson relayhealth'
+p1093
+g393
+sS'salesforce.com inc'
+p1094
+S'salesforce'
+p1095
+sS'autodesk inc'
+p1096
+S'autodesk'
+p1097
+sS'gap'
+p1098
+S'gap'
+p1099
+sS'ihs markit'
+p1100
+g603
+sS'tchs and walgreens'
+p1101
+g442
+sS'hartford financial services group'
+p1102
+S'hartford financial services group'
+p1103
+sS'thermo fisher scientific'
+p1104
+g520
+sS'mosaic atm'
+p1105
+g314
+sS'warner music group'
+p1106
+S'warner music group'
+p1107
+sS'umano: news read to you'
+p1108
+g21
+sS'bank of america / us army-air force exchange / tx utilities- energy futures'
+p1109
+g33
+sS'the hanover insurance group'
+p1110
+S'hanover insurance group'
+p1111
+sS'southern california institute for research and education (scire)'
+p1112
+g77
+sS'think big, a teradata company'
+p1113
+g82
+sS'tata consultancy services / walmart client'
+p1114
+g340
+sS'praxair'
+p1115
+S'praxair'
+p1116
+sS'berkshire hathaway homestate companies'
+p1117
+g410
+sS'hp brazil'
+p1118
+g108
+sS'harris miller miller & hanson inc.'
+p1119
+g687
+sS'tenet healthcare'
+p1120
+S'tenet healthcare'
+p1121
+sS'eyemart express'
+p1122
+g23
+sS'hasbro'
+p1123
+S'hasbro'
+p1124
+sS'delta air lines'
+p1125
+S'delta air lines'
+p1126
+sS'applied materials inc'
+p1127
+S'applied materials'
+p1128
+sS'qualcomm'
+p1129
+g609
+sS'american express'
+p1130
+g23
+sS'microsoft (blueocean market intelligence)'
+p1131
+g27
+sS'centene corporation'
+p1132
+S'centene'
+p1133
+sS'anthem, inc.'
+p1134
+g84
+sS'aig'
+p1135
+g39
+sS'bank of america'
+p1136
+g33
+sS'boeing research and technology'
+p1137
+g175
+sS'agilent technologies'
+p1138
+g550
+sS'directv (att)'
+p1139
+g418
+sS'thermo fisher scientific inc'
+p1140
+S'thermo fisher scientific'
+p1141
+sS'l-3 communications'
+p1142
+S'l-3 communications'
+p1143
+sS'microsoft uk'
+p1144
+g27
+sS'allstate northern ireland'
+p1145
+g185
+sS'philip morris international'
+p1146
+S'philip morris international'
+p1147
+sS'trimble navigation, ltd.'
+p1148
+S'trimble navigation'
+p1149
+sS'linkedin'
+p1150
+g377
+sS'w.w. grainger'
+p1151
+S'w.w. grainger'
+p1152
+sS'edwards lifesciences'
+p1153
+S'edwards lifesciences'
+p1154
+sS'ixi services, a division of equifax'
+p1155
+g203
+sS'google developers group'
+p1156
+g260
+sS'verizon enterprise solutions'
+p1157
+g424
+sS'at&t wireless'
+p1158
+g51
+sS'mckesson corporation'
+p1159
+S'mckesson'
+p1160
+sS'fedex service - revenue management'
+p1161
+g816
+sS'pfizer / institute for molecular bioscience'
+p1162
+g207
+sS'eqt corporation'
+p1163
+S'eqt'
+p1164
+sS'metlife'
+p1165
+S'metlife'
+p1166
+sS'west consultants, inc.'
+p1167
+g15
+sS'amphenol tcs'
+p1168
+S'amphenol'
+p1169
+sS'ihs inc'
+p1170
+S'ihs'
+p1171
+sS'aircraft repair & maintenance - for alenia aermacchi at boeing usa'
+p1172
+g175
+sS'tata consultancy services - the home depot'
+p1173
+g635
+sS'nike'
+p1174
+S'nike'
+p1175
+sS'cummins'
+p1176
+S'cummins'
+p1177
+sS'general motors corporation'
+p1178
+S'general motors'
+p1179
+sS'morgan stanley analytics hungary ltd.'
+p1180
+g490
+sS'teradata corporation'
+p1181
+S'teradata'
+p1182
+sS'fmc corporation, artificial intelligence center'
+p1183
+S'fmc'
+p1184
+sS'microsoft / inspur worldwide services - xbox live research'
+p1185
+g27
+sS'amazon web services'
+p1186
+g238
+sS'hess corporation'
+p1187
+S'hess'
+p1188
+sS'health care reit'
+p1189
+S'health care reit'
+p1190
+sS'at&t capital'
+p1191
+g51
+sS'data processing iran company (former ibm co.)'
+p1192
+g11
+sS'carlisle & company'
+p1193
+S'carlisle'
+p1194
+sS'analog devices'
+p1195
+S'analog devices'
+p1196
+sS'bay area news group'
+p1197
+g21
+sS'bank of montreal / harris bank'
+p1198
+g687
+sS'lockheed martin - mission systems and sensors (ms2)'
+p1199
+g18
+sS'3m health care (formerly treo solutions)'
+p1200
+g132
+sS'aig (science group)'
+p1201
+g39
+sS'ebay research lab'
+p1202
+g31
+sS'microsoft c+e analytics and insight'
+p1203
+g27
+sS'ibm india private limited'
+p1204
+g11
+sS'pepsico foods china'
+p1205
+g264
+sS'yum brands inc'
+p1206
+S'yum brands'
+p1207
+sS'vantiv'
+p1208
+S'vantiv'
+p1209
+sS'general electric healthcare'
+p1210
+g252
+sS'raytheon, network centric systems'
+p1211
+g531
+sS'general electric'
+p1212
+g252
+sS'american electric power'
+p1213
+S'american electric power'
+p1214
+sS'avon products inc'
+p1215
+S'avon products'
+p1216
+sS'ibm india pvt limited'
+p1217
+g11
+sS'mosaic'
+p1218
+g314
+sS'the news tribune'
+p1219
+g21
+sS'ca technologies'
+p1220
+g166
+sS'lockheed martin'
+p1221
+g18
+sS'micron technology'
+p1222
+S'micron technology'
+p1223
+sS'amtrust financial services, inc. (afsi)'
+p1224
+S'amtrust financial services'
+p1225
+sS'cigna'
+p1226
+g697
+sS'salesforce.com'
+p1227
+g306
+sS'us news'
+p1228
+S'news'
+p1229
+sS'lockheed martin corporation'
+p1230
+g18
+sS'yrc worldwide, inc.'
+p1231
+S'yrc worldwide'
+p1232
+sS'panavia llc campbell ca'
+p1233
+g166
+sS'georgia southern university'
+p1234
+g77
+sS'new york daily news'
+p1235
+g1229
+sS'the home depot techshed'
+p1236
+g635
+sS'western digital'
+p1237
+g194
+sS'wells fargo, n.a.'
+p1238
+g7
+sS'cerner corporation'
+p1239
+S'cerner'
+p1240
+sS'unisys - federal systems - us department of homeland security - customs and border protection'
+p1241
+S'unisys'
+p1242
+sS'west chester university of pennslyvania'
+p1243
+g15
+sS'intel collaborative research institute - cities'
+p1244
+g41
+sS'allstate quantitative research & analytics - silicon valley'
+p1245
+g185
+sS'pepsi / yum brands / pizza hut / kfc'
+p1246
+S'yum brands'
+p1247
+sS'university of southern california (information sciences institute)'
+p1248
+g77
+sS'buck consultants at xerox'
+p1249
+g61
+sS'staples incorporated'
+p1250
+g516
+sS'ibm labs india'
+p1251
+g11
+sS'north west cancer research fund institute, bangor'
+p1252
+g15
+sS'systemax'
+p1253
+S'systemax'
+p1254
+sS'morgan stanley investment management'
+p1255
+g490
+sS'aig global investment group'
+p1256
+g39
+sS'sabre corporation'
+p1257
+g437
+sS'devon energy'
+p1258
+S'devon energy'
+p1259
+sS'autoliv steering wheels tunisia'
+p1260
+S'autoliv'
+p1261
+sS'abbott laboratories'
+p1262
+S'abbott laboratories'
+p1263
+sS'american eagle outfitters'
+p1264
+S'american eagle outfitters'
+p1265
+sS'dow chemical company, china'
+p1266
+g90
+sS'southern university'
+p1267
+g77
+sS'redbox instant by verizon'
+p1268
+g424
+sS'southern california edison (sce)'
+p1269
+g77
+sS'apple'
+p1270
+g347
+sS'mead johnson nutrition'
+p1271
+S'mead johnson nutrition'
+p1272
+sS'international studies association - west'
+p1273
+g15
+sS'avaya'
+p1274
+g763
+sS'amazon web services - analytics and metrics'
+p1275
+g238
+sS'microsoft corporation'
+p1276
+g27
+sS'science applications international corporation saic'
+p1277
+S'science applications international'
+p1278
+sS'plexus worldwide'
+p1279
+g256
+sS'general dynamics ais'
+p1280
+g312
+sS'green plains renewable energy'
+p1281
+S'green plains'
+p1282
+sS'marathon oil'
+p1283
+S'marathon oil'
+p1284
+sS'hp france'
+p1285
+g108
+sS'netapp'
+p1286
+g153
+sS'ibm t.j. watson research center'
+p1287
+g11
+sS'general dynamics it'
+p1288
+S'general dynamics'
+p1289
+sS'unisys'
+p1290
+g1242
+sS'quest diagnostics'
+p1291
+S'quest diagnostics'
+p1292
+sS'on semiconductor'
+p1293
+S'on semiconductor'
+p1294
+sS'citigroup inc'
+p1295
+S'citigroup'
+p1296
+sS's.f.express co.,ltd.'
+p1297
+g23
+sS'ups - nj, nyc, atl, al, fl, tn'
+p1298
+g112
+sS'arrow electronics'
+p1299
+S'arrow electronics'
+p1300
+sS'cigna insurance services'
+p1301
+g697
+sS'intuit'
+p1302
+g773
+sS'johnson controls inc'
+p1303
+S'johnson controls'
+p1304
+sS'disney research'
+p1305
+g5
+sS'kellogg'
+p1306
+g887
+sS'target sistemas'
+p1307
+g414
+sS'vivendi universal/mp3.com'
+p1308
+g118
+sS'caterpillar financial'
+p1309
+g147
+sS'america online inc. (time warner company)'
+p1310
+S'time warner'
+p1311
+sS'frontier communications'
+p1312
+S'frontier communications'
+p1313
+sS"macy's"
+p1314
+g275
+sS'global data, insights, and analytics at ford motor company'
+p1315
+g65
+sS'saic, science applications international corporation'
+p1316
+S'science applications international'
+p1317
+sS'intel'
+p1318
+g41
+sS'qualcomm (consultant)'
+p1319
+g609
+sS'affirma consulting, microsoft'
+p1320
+g27
+sS'cummins inc'
+p1321
+g1177
+sS'lear corporation'
+p1322
+g813
+sS'lockheed martin - ms2 engineering leadership development program'
+p1323
+g18
+sS'iberia express'
+p1324
+g23
+sS'the goodyear tire & rubber company'
+p1325
+S'goodyear tire & rubber'
+p1326
+sS'a mobile news app'
+p1327
+g21
+sS'alliant energy'
+p1328
+S'alliant energy'
+p1329
+sS'salesforce marketing cloud'
+p1330
+g306
+sS'harris westminster sixth form'
+p1331
+g687
+sS'at&t labs, inc'
+p1332
+g51
+sS'allstate research and planning center'
+p1333
+g185
+sS'cigna healthcare'
+p1334
+g697
+sS'intel corporation r & d'
+p1335
+g41
+sS'corning incorporated, pv glass technologies'
+p1336
+g481
+sS'rent-a-center'
+p1337
+S'rent-a-center'
+p1338
+sS'siemens healthcare technology and cerner health (acquired siemens hc)'
+p1339
+g1240
+sS'google'
+p1340
+g260
+sS'teradata big data practice'
+p1341
+g82
+sS'steelcase'
+p1342
+S'steelcase'
+p1343
+sS'covance'
+p1344
+g540
+sS'express scripts'
+p1345
+g23
+sS'pfizer, inc.'
+p1346
+g207
+sS'progressive leasing'
+p1347
+g1030
+sS'advanced apache spark'
+p1348
+g831
+sS'meadwestvaco'
+p1349
+S'meadwestvaco'
+p1350
+sS'ups supply chain solutions'
+p1351
+g112
+sS'rockwell automation'
+p1352
+S'rockwell automation'
+p1353
+sS'bridging the talent gap'
+p1354
+g375
+sS'wells fargo (contractor through kforce)'
+p1355
+g7
+sS'robert half international'
+p1356
+S'robert half international'
+p1357
+sS'm&t bank'
+p1358
+S'm&t bank'
+p1359
+sS'danaher'
+p1360
+g467
+sS'microsoft corp'
+p1361
+g27
+sS'general mills'
+p1362
+S'general mills'
+p1363
+sS'texas instruments incorporated'
+p1364
+S'texas instruments'
+p1365
+sS'eli lilly and company'
+p1366
+g941
+sS'gravitant, an ibm company'
+p1367
+g11
+sS'carmax (home office)'
+p1368
+g1009
+sS'reinsurance group of america, incorporated'
+p1369
+g136
+sS'computer task group, ibm'
+p1370
+g11
+sS'magenta news (now meltwater)'
+p1371
+g21
+sS'si government solutions - raytheon'
+p1372
+g531
+sS'fm global'
+p1373
+S'fm global'
+p1374
+sS'fedex'
+p1375
+g816
+sS'deloitte * lockheed martin * bradsworth aerospace'
+p1376
+g18
+sS'microsoft (skype)'
+p1377
+g27
+sS'safeway'
+p1378
+S'safeway'
+p1379
+sS'northrop grumman prb systems, inc.'
+p1380
+g53
+sS'merck & co.'
+p1381
+g9
+sS'university of new brunswick'
+p1382
+g57
+sS'visteon'
+p1383
+S'visteon'
+p1384
+sS'cognizant consultant - bb&t (branch banking & trust)'
+p1385
+S'bb&t'
+p1386
+sS'cubist pharmaceuticals (merck)'
+p1387
+g9
+sS'fossil group, inc.'
+p1388
+S'fossil group'
+p1389
+sS'teradata'
+p1390
+g82
+sS'ibm spark technology center'
+p1391
+g11
+sS'zoetis'
+p1392
+g744
+sS'yahoo research'
+p1393
+g72
+sS'xerox research corporation europe'
+p1394
+g61
+sS'perkinelmer inc'
+p1395
+S'perkinelmer'
+p1396
+sS'usaa'
+p1397
+S'usaa'
+p1398
+sS'nationwide childrens hospital'
+p1399
+g620
+sS'amazon inc'
+p1400
+g238
+sS'bb&t'
+p1401
+g1386
+sS'oracle finance software private ltd'
+p1402
+g43
+sS'goldman sachs co. / spear, leeds and kellogg / tlw securities'
+p1403
+g205
+sS'b/e aerospace'
+p1404
+S'b/e aerospace'
+p1405
+sS'ebay research labs'
+p1406
+g31
+sS'centurylink'
+p1407
+S'centurylink'
+p1408
+sS'kla-tencor, yield management consulting group'
+p1409
+g125
+sS'gartner'
+p1410
+S'gartner'
+p1411
+sS'narus inc (a wholly owned subsidiary of the boeing compnay)'
+p1412
+g175
+sS'td ameritrade holding corporation'
+p1413
+S'td ameritrade holding'
+p1414
+sS'pepsico'
+p1415
+g264
+sS'netflix'
+p1416
+g470
+sS'pfizer'
+p1417
+g207
+sS'guardian news & media'
+p1418
+g21
+sS'datalogix (acquired by oracle)'
+p1419
+g43
+sS'federal express'
+p1420
+g23
+sS'pfizer investment co., ltd'
+p1421
+g207
+sS'hanesbrands inc.'
+p1422
+S'hanesbrands'
+p1423
+sS'general mills inc'
+p1424
+S'general mills'
+p1425
+sS'pro unlimited (on assignment at charles schwab)'
+p1426
+g979
+sS'ibm corporation - mnsu project'
+p1427
+g11
+sS'yahoo! search marketing'
+p1428
+g72
+sS'microsoft data platform group'
+p1429
+g27
+sS'parker-hannifin corporation'
+p1430
+S'parker-hannifin'
+p1431
+sS'corning incorporated'
+p1432
+g481
+sS'pitney bowes management services'
+p1433
+g88
+sS'depuy synthes companies of johnson & johnson'
+p1434
+g230
+sS'fiserv'
+p1435
+g624
+sS'jp morgan chase'
+p1436
+S'jp morgan chase'
+p1437
+sS'oracle '
+p1438
+g43
+sS'progressive bronze'
+p1439
+g1030
+sS'qualcomm innovation center inc'
+p1440
+g609
+sS'onavo (acquired by facebook)'
+p1441
+g68
+sS'disney interactive'
+p1442
+g5
+sS'amazon lab126'
+p1443
+g238
+sS'devon energy corporation'
+p1444
+g601
+sS'viptone, oracle, goldman sachs'
+p1445
+g43
+sS' amazon echo, alexa'
+p1446
+g238
+sS'lockheed martin aeronautics'
+p1447
+g18
+sS'urs corporation, an aecom company'
+p1448
+g573
+sS'big lots stores'
+p1449
+S'big lots'
+p1450
+sS'aol advertising'
+p1451
+g25
+sS'news uk'
+p1452
+g21
+sS'freddie mac'
+p1453
+S'freddie mac'
+p1454
+sS'ibm zurich research lab'
+p1455
+g11
+sS'dsw zorgverzekeraar'
+p1456
+g581
+sS'adchemy (acquired by walmart)'
+p1457
+g340
+sS'wyndham worldwide (exchange and rental)'
+p1458
+g493
+sS'nu skin enterprises'
+p1459
+S'nu skin enterprises'
+p1460
+sS'dupont pharamceutical research labs/combichem'
+p1461
+g936
+sS'ibm t. j. watson research center'
+p1462
+g11
+sS'fedex services'
+p1463
+g816
+sS'yahoo inc'
+p1464
+S'yahoo'
+p1465
+sS'avnet'
+p1466
+g949
+sS'xerox corporarion / xerox litigation services'
+p1467
+g61
+sS'international game technology'
+p1468
+g596
+sS'eds, an hp company'
+p1469
+g108
+sS'ibm silicon valley labs'
+p1470
+g11
+sS'united technologies research center'
+p1471
+g353
+sS'walgreens boots alliance'
+p1472
+g442
+sS'universal wilde'
+p1473
+g118
+sS'allstate research & planning center'
+p1474
+g185
+sS'instituto de altos estudios ferm\xc3\xadn toro'
+p1475
+S'toro'
+p1476
+sS'ebay inc.'
+p1477
+g31
+sS'electronic arts'
+p1478
+g420
+sS'whole foods market'
+p1479
+S'whole foods market'
+p1480
+sS'teradata gmbh'
+p1481
+g82
+sS'office depot inc'
+p1482
+S'office depot'
+p1483
+sS'rock-tenn company'
+p1484
+S'rock-tenn'
+p1485
+sS'ecolab'
+p1486
+S'ecolab'
+p1487
+sS'tetra tech consulting'
+p1488
+g718
+sS'regeneron pharmaceuticals'
+p1489
+S'regeneron pharmaceuticals'
+p1490
+sS'edison international'
+p1491
+g1012
+sS'xerox'
+p1492
+g61
+sS'citigroup via computer task group'
+p1493
+g3
+sS'biogen idec inc'
+p1494
+S'biogen'
+p1495
+sS'bachand and associates (part of tetra tech r&d)'
+p1496
+g718
+sS'ibm canada ltd.'
+p1497
+g11
+sS'merck and shire'
+p1498
+g9
+sS'walmart ecommerce'
+p1499
+g340
+sS'e*trade financial corporation'
+p1500
+S'e*trade financial'
+p1501
+sS'target holding'
+p1502
+g414
+sS'at&t labs'
+p1503
+g51
+sS'costco wholesale'
+p1504
+S'costco'
+p1505
+sS'first american financial'
+p1506
+S'first american financial'
+p1507
+sS'ann robert h lurie childrens hospital chicago'
+p1508
+S'ann'
+p1509
+sS'ten-x, a google capital investment'
+p1510
+g260
+sS'ibm watson health at ibm'
+p1511
+g11
+sS'amerisourcebergen'
+p1512
+S'amerisourcebergen'
+p1513
+sS'aps healthcare, a subsidiary of universal american'
+p1514
+g359
+sS'oracle financial services software limited'
+p1515
+g43
+sS'the gap'
+p1516
+g375
+sS'aol platforms'
+p1517
+g25
+sS'williams-sonoma, inc.'
+p1518
+g724
+sS'ford motor company / visteon chassis'
+p1519
+g65
+sS'viacom'
+p1520
+g776
+sS'general dynamics'
+p1521
+g312
+sS"mcdonald's corporation"
+p1522
+S"mcdonald's"
+p1523
+sS'ibm czech republic'
+p1524
+g11
+sS'northwestern mutual'
+p1525
+S'northwestern mutual'
+p1526
+sS'the progressive corporation'
+p1527
+g933
+sS'china agricultural unviersity (west campus)'
+p1528
+g15
+sS'cummins inc.'
+p1529
+g267
+sS'advanced micro devices'
+p1530
+S'advanced micro devices'
+p1531
+sS'autodesk'
+p1532
+g673
+sS'university of michigan kellogg eye center'
+p1533
+g205
+sS'l-3 communications, power paragon, inc.'
+p1534
+g1143
+sS'wells fargo home mortgage'
+p1535
+g7
+sS'computer sciences corporation'
+p1536
+g49
+sS'vwr'
+p1537
+S'vwr'
+p1538
+sS'caesars entertainment corporation'
+p1539
+S'caesars entertainment'
+p1540
+sS'janssen pharmaceuticals - a johnson & johnson company'
+p1541
+g230
+sS'university southern california'
+p1542
+g210
+sS'university of southern california: division of biokinesiology & physical therapy'
+p1543
+g77
+sS'netflix inc'
+p1544
+S'netflix'
+p1545
+sS'symantec'
+p1546
+g695
+sS'ibm netezza'
+p1547
+g11
+sS'mirant (formerly southern energy, a southern company subsidiary)'
+p1548
+g77
+sS'halliburton- landmark'
+p1549
+g397
+sS'amazon / alexa internet'
+p1550
+g238
+sS'raytheon company'
+p1551
+g531
+sS'johnson & johnson medical'
+p1552
+g230
+sS'universal orlando resort'
+p1553
+g118
+sS'international application solutions (an ibm singapore subsidiary)'
+p1554
+g11
+sS'chubb'
+p1555
+S'chubb'
+p1556
+sS'dst systems'
+p1557
+S'dst systems'
+p1558
+sS'ibm gbs'
+p1559
+g11
+sS'abbvie inc'
+p1560
+S'abbvie'
+p1561
+sS'ibm demandtec solutions'
+p1562
+g11
+sS'allstate insurance'
+p1563
+g185
+sS'ibm germany research & development'
+p1564
+g11
+sS'univision communications inc.'
+p1565
+S'univision communications'
+p1566
+sS'starbucks coffee company'
+p1567
+g504
+sS'levi strauss co'
+p1568
+S'levi strauss'
+p1569
+sS'ibm global business services'
+p1570
+g11
+sS'autozone'
+p1571
+S'autozone'
+p1572
+sS'pfizer pharmaceuticals  (via visual technologies)'
+p1573
+g207
+sS'disney research lab'
+p1574
+g5
+sS'ibm - analytics software group'
+p1575
+g11
+sS'ebay inc. (ebay, paypal, skype, ...)'
+p1576
+g31
+sS'waste management'
+p1577
+S'waste management'
+p1578
+sS'aol advertising / networks'
+p1579
+g25
+sS'sempra energy'
+p1580
+S'sempra energy'
+p1581
+sS'verizon federal'
+p1582
+g424
+sS'centerpoint energy'
+p1583
+S'centerpoint energy'
+p1584
+sS'state street'
+p1585
+g981
+sS'general dynamics mission systems'
+p1586
+g1289
+sS'mid-west iso'
+p1587
+g15
+sS'markel corporation'
+p1588
+S'markel'
+p1589
+sS'fluor'
+p1590
+S'fluor'
+p1591
+sS'stanford university, bill lane center for the american west'
+p1592
+g15
+sS'applied materials'
+p1593
+g1128
+sS'national semiconductor (aquired by texas instruments)'
+p1594
+g247
+sS'ibm china'
+p1595
+g11
+sS'verizon internet services'
+p1596
+g424
+sS'nationwide insurance'
+p1597
+g620
+sS'intel labs'
+p1598
+g41
+sS'ameriprise financial services, inc.'
+p1599
+S'ameriprise financial'
+p1600
+sS'nordstrom inc.'
+p1601
+g465
+sS'america on line (aol)'
+p1602
+g25
+sS'sysco'
+p1603
+S'sysco'
+p1604
+sS'expedia, inc.'
+p1605
+g277
+sS'perkinelmer, inc.'
+p1606
+S'perkinelmer'
+p1607
+sS'zavers.com  (aquired by google)'
+p1608
+g260
+sS'pioneer natural resources company'
+p1609
+S'pioneer natural resources'
+p1610
+sS'agco corp'
+p1611
+S'agco'
+p1612
+sS'amerada hess'
+p1613
+g1188
+sS'dte energy'
+p1614
+S'dte energy'
+p1615
+sS'microsoft'
+p1616
+g27
+sS'aetna'
+p1617
+g198
+sS'ibm smarter workforce'
+p1618
+g11
+sS'universal postal union'
+p1619
+g118
+sS'department of physics, west virginia university'
+p1620
+g15
+sS'microsoft unified communications'
+p1621
+g27
+sS'oracle'
+p1622
+g43
+sS'ebay-stubhub'
+p1623
+g31
+sS'university of new mexico/barbara ann karmanos cancer institute'
+p1624
+S'ann'
+p1625
+sS'pacific life'
+p1626
+S'pacific life'
+p1627
+sS'west virginia university'
+p1628
+g15
+sS'universal weather and aviation'
+p1629
+g118
+s.

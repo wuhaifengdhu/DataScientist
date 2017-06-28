@@ -1,0 +1,754 @@
+(dp1
+S'computational science engineering'
+p2
+VComputer Science
+p3
+sS'biostatistics'
+p4
+VBiological Engineering
+p5
+sS'geoinformatics'
+p6
+VGeography
+p7
+sS'statistical science'
+p8
+VStatistics
+p9
+sS'operations management'
+p10
+VOperations Research
+p11
+sS'business administration management information systems'
+p12
+VBusiness
+p13
+sS'computer science engineering'
+p14
+g3
+sS'information data science'
+p15
+VData Science
+p16
+sS'behavioral economics'
+p17
+VEconomics
+p18
+sS'epidemiology & biostatistics'
+p19
+g5
+sS'materials engineering'
+p20
+VChemical Engineering
+p21
+sS'geography'
+p22
+g7
+sS'management science engineering'
+p23
+VManagement Science and Engineering
+p24
+sS'linguistics'
+p25
+VLinguistics
+p26
+sS'pharmacoeconomics pharmaceutical economics'
+p27
+g21
+sS'bioengineering biomedical engineering'
+p28
+g5
+sS'mechanical aerospace engineering'
+p29
+VAstrophysics
+p30
+sS'applied urban science informatics'
+p31
+VEnvironmental Engineering
+p32
+sS'nuclear engineering'
+p33
+VEngineering
+p34
+sS'pharmacy'
+p35
+g21
+sS'biotechnology'
+p36
+g5
+sS'ecology evolutionary biology'
+p37
+g5
+sS'plant pathology'
+p38
+g5
+sS'physical chemistry'
+p39
+VPhysics
+p40
+sS'engineering science'
+p41
+VElectrical and Electronics Engineering
+p42
+sS'science analytics'
+p43
+g16
+sS'finance'
+p44
+g18
+sS'theoretical mathematical physics'
+p45
+VMathematics
+p46
+sS'transportation highway engineering'
+p47
+VTransportation Engineering
+p48
+sS'computer sciences'
+p49
+g3
+sS'structural engineering'
+p50
+g34
+sS'mathematics statistics'
+p51
+g9
+sS'environemental policy'
+p52
+g32
+sS'business intelligence data analytics'
+p53
+g13
+sS'astronomy & astrophysics'
+p54
+g30
+sS'educational psychology'
+p55
+VPsychology
+p56
+sS'international affairs'
+p57
+VSociology
+p58
+sS'biochemistry biophysics molecular biology'
+p59
+g5
+sS'finance general'
+p60
+g18
+sS'mechanical engineering'
+p61
+g34
+sS'mathematical finance'
+p62
+g46
+sS'finance mathematical economics'
+p63
+g18
+sS'machine learning engineer'
+p64
+g3
+sS'financial statistics & risk management'
+p65
+g18
+sS'civil engineering'
+p66
+g32
+sS'computer engineering'
+p67
+g3
+sS'data analytics engineering'
+p68
+g16
+sS'econometrics quantitative economics'
+p69
+g18
+sS'elementary particle physics'
+p70
+g40
+sS'philosophy physics astronomy'
+p71
+g40
+sS'statistics economics modeling'
+p72
+g9
+sS'data analytics'
+p73
+g16
+sS'logic computation methodology'
+p74
+g46
+sS'computational biology bioinformatics'
+p75
+g5
+sS'industrial engineering operations research'
+p76
+VIndustrial Engineering
+p77
+sS'computational astrophysics'
+p78
+g30
+sS'actuarial science'
+p79
+g46
+sS'analytics'
+p80
+g16
+sS'biological engineering'
+p81
+g5
+sS'cognitive neuroscience'
+p82
+VCognitive Science
+p83
+sS'public policy'
+p84
+g58
+sS'quantitative methods social sciences'
+p85
+g58
+sS'operations research industrial engineering'
+p86
+g11
+sS'applied mathematics computer science'
+p87
+g46
+sS'accounting finance'
+p88
+g18
+sS'industrial & systems engineering'
+p89
+g77
+sS'quantitative finance'
+p90
+g18
+sS'applied statistics actuarial science'
+p91
+g9
+sS'psychology'
+p92
+g56
+sS'information technology'
+p93
+VInformation Science
+p94
+sS'petroleum engineering'
+p95
+g34
+sS'industrial engineering'
+p96
+g77
+sS'environmental science'
+p97
+g32
+sVapplied statistic
+p98
+g9
+sS'electrical electronics communications engineering'
+p99
+g42
+sS'astronomy'
+p100
+g30
+sS'applied computational mathematics'
+p101
+g46
+sS'quantitative computational finance'
+p102
+g18
+sS'political science government'
+p103
+g58
+sS'computational physics'
+p104
+g40
+sS'applied physics'
+p105
+g40
+sS'computational linguistics'
+p106
+g26
+sS'biology'
+p107
+g5
+sS'business'
+p108
+g13
+sS'information management'
+p109
+g94
+sS'marketing'
+p110
+g18
+sS'applied math'
+p111
+g46
+sS'information analysis retrieval'
+p112
+g94
+sS'electrical engineering computer science'
+p113
+g42
+sS'business analytics'
+p114
+g13
+sS'epidemiology'
+p115
+g5
+sS'chemical physics'
+p116
+g21
+sS'industrial operations engineering'
+p117
+g77
+sS'bioengineering'
+p118
+g5
+sS'electrical electronics engineering'
+p119
+g42
+sS'information sciences technology'
+p120
+g94
+sS'biomedical engineering'
+p121
+g5
+sS'computational applied mathematics'
+p122
+g46
+sS'industrial organizational psychology'
+p123
+g77
+sS'public administration'
+p124
+g58
+sS'international policy studies'
+p125
+g58
+sS'economics'
+p126
+g18
+sS'business intelligence & analytics'
+p127
+g13
+sS'software systems'
+p128
+g3
+sS'data analyst'
+p129
+g16
+sS'operations information management'
+p130
+g11
+sS'biochemistry molecular biology'
+p131
+g5
+sS'predictive analytics'
+p132
+g3
+sS'computer science - machine learning'
+p133
+g3
+sS'symbolic systems'
+p134
+g26
+sS'neural science'
+p135
+g83
+sS'mathematics economics'
+p136
+g46
+sS'political science'
+p137
+g58
+sS'business administration'
+p138
+g13
+sS'computational science'
+p139
+g3
+sS'data science'
+p140
+g16
+sS'robotics'
+p141
+g3
+sS'information engineering'
+p142
+g94
+sS'mba'
+p143
+g18
+sS'biology general'
+p144
+g5
+sS'applied economics'
+p145
+g18
+sS'informatics'
+p146
+g94
+sS'mathematical physics'
+p147
+g46
+sS'physical oceanography'
+p148
+g40
+sS'applied statistics'
+p149
+g9
+sS'data mining'
+p150
+g3
+sS'theoretical applied mechanics'
+p151
+g40
+sS'financial mathematics'
+p152
+g18
+sS'civil environmental engineering'
+p153
+g32
+sS'statistics operations research'
+p154
+g9
+sS'theoretical particle physics'
+p155
+g40
+sS'industrial systems engineering'
+p156
+g77
+sS'transportation engineering'
+p157
+g48
+sS'computer software engineering'
+p158
+g3
+sS'statistics'
+p159
+g9
+sS'biomathematics'
+p160
+g5
+sS'business analytics & project management'
+p161
+g13
+sS'condensed matter materials physics'
+p162
+g40
+sS'aerospace aeronautical astronautical engineering'
+p163
+g30
+sS'computer information sciences general'
+p164
+g3
+sS'applied econometrics'
+p165
+g18
+sS'management technology'
+p166
+g24
+sS'management science & engineering'
+p167
+g24
+sS'engineering physics'
+p168
+g40
+sS'information science'
+p169
+g94
+sS'biomedical medical engineering'
+p170
+g5
+sS'management information systems'
+p171
+g24
+sS'astrophysics'
+p172
+g30
+sS'operations research'
+p173
+g11
+sS'data science engineering'
+p174
+g16
+sS'systems engineering'
+p175
+g34
+sS'business analytics project management'
+p176
+g13
+sS'molecular biology'
+p177
+g5
+sS'analytical chemistry'
+p178
+g21
+sS'management information systems general'
+p179
+g24
+sS'information systems'
+p180
+g94
+sS'geophysics'
+p181
+g40
+sS'chemical engineering'
+p182
+g21
+sS'statistical practice'
+p183
+g9
+sS'computer engineering computer science'
+p184
+g3
+sS'geology'
+p185
+g7
+sS'computational neuroscience'
+p186
+g83
+sS'condensed matter physics'
+p187
+g40
+sS'operations research & supply chain'
+p188
+g11
+sS'data scientist data analysis modeling'
+p189
+g16
+sS'applied mathematics'
+p190
+g46
+sS'biostatistics & genetic epidemiology'
+p191
+g5
+sS'machine learning'
+p192
+g3
+sS'geological earth sciences geosciences'
+p193
+g7
+sS'computer information sciences'
+p194
+g3
+sS'business administration management general'
+p195
+g13
+sS'electrical engineering'
+p196
+g42
+sS'mathematics computer science'
+p197
+g46
+sS'mathematical sciences'
+p198
+g46
+sS'marketing analytics'
+p199
+g18
+sS'astronomy astrophysics'
+p200
+g30
+sS'mathematics philosophy'
+p201
+g46
+sS'agricultural resource economics'
+p202
+g18
+sS'computing'
+p203
+g3
+sS'business administration management operations'
+p204
+g13
+sS'management science'
+p205
+g24
+sS'engineering'
+p206
+g34
+sS'cognitive science'
+p207
+g83
+sS'applied mathematics statistics'
+p208
+g46
+sS'quantitative psychology'
+p209
+g56
+sS'theoretical physics'
+p210
+g40
+sS'accounting'
+p211
+g18
+sS'business economics'
+p212
+g13
+sS'environmental health'
+p213
+g32
+sS'statistical genetics'
+p214
+g9
+sS'demography population studies'
+p215
+g58
+sS'statistics economics'
+p216
+g9
+sS'biochemistry'
+p217
+g5
+sS'cognitive affective neuroscience'
+p218
+g83
+sS'computational chemistry'
+p219
+g21
+sS'electrical & computer engineering'
+p220
+g42
+sS'information data science mids'
+p221
+g94
+sS'neuroscience'
+p222
+g83
+sS'genetics'
+p223
+g5
+sS'mathematics finance'
+p224
+g46
+sS'computer science'
+p225
+g3
+sS'decision sciences engineering-economic systems'
+p226
+g18
+sS'mathematics'
+p227
+g46
+sS'criminology'
+p228
+g58
+sS'engineering management'
+p229
+g34
+sS'information technology management'
+p230
+g94
+sS'experimental high energy physics'
+p231
+g40
+sS'computer applications'
+p232
+g3
+sS'computational biology'
+p233
+g5
+sS'industrial engineering & operations research'
+p234
+g77
+sS'ocean engineering'
+p235
+g32
+sS'sociology'
+p236
+g58
+sS'clinical psychology'
+p237
+g56
+sS'cognitive psychology'
+p238
+g83
+sS'theoretical computational physics'
+p239
+g40
+sS'biophysics'
+p240
+g5
+sS'molecular biophysics'
+p241
+g5
+sS'startegic brand management'
+p242
+g18
+sS'biomedical informatics'
+p243
+g5
+sS'bioinformatics'
+p244
+g5
+sS'engineering industrial management'
+p245
+g24
+sS'computational mathematics'
+p246
+g46
+sS'physical biological anthropology'
+p247
+g5
+sS'electrical computer engineering'
+p248
+g42
+sS'finance data analytics'
+p249
+g18
+sS'quantitative marketing'
+p250
+g18
+sS'software engineering'
+p251
+g3
+sS'management'
+p252
+g24
+sS'environmental engineering'
+p253
+g32
+sS'statistical computingdata mining track'
+p254
+g9
+sS'human genetics'
+p255
+g5
+sS'marketing & analytics'
+p256
+g18
+sS'biomathematics bioinformatics computational biology'
+p257
+g5
+sS'experimental particle physics'
+p258
+g40
+sS'public policy management'
+p259
+g58
+sS'financial engineering'
+p260
+g18
+sS'economics-mathematics'
+p261
+g18
+sS'information management systems'
+p262
+g94
+sS'operations research information engineering'
+p263
+g11
+sS'chemistry'
+p264
+g21
+sS'physics'
+p265
+g40
+sS'experimental psychology'
+p266
+g56
+sS'aerospace engineering'
+p267
+g30
+s.

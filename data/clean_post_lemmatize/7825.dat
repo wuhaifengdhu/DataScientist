@@ -1,0 +1,19 @@
+octo consulting group seeking big data architect. the big data architect help identify design develop configure establish distributed scalable architecture support public private data exploration discovery dissemination support data-driven decision making/ improvement across governments function business units. in addition candidate perform following
+work project team e.g. business analyst user interface ui designer product owner technical lead refine business requirement complete implementation production deployment requirements. these requirement agile nature may evolve collaboration cross functional team product owner
+create document big data architecture design pertinent configuration execution instruction artifact establish update big data reservoir provide data-driven organizational capabilities. big data architecture
+leverage open source technology consistent agency federal source code policies
+have ingestion tier consumes raw data i.e. real-time batch source store purpose-driven ingestion paradigm including ingestion flat file data stream data and/or via api and/or open database connectivity odbc
+have compute tier support data processing i.e. map reduce data transformation process data loading structured source etc. staging preparing data analytics tier
+have storage tier i.e. hadoop distributed file system hdfs support accept store raw data derived data aggregated compute tier
+have analysis tier allows developer data scientist create/manage model derived data prototype
+provide data management/governance tier access control allow database view rule set manage data access
+provide bdr api serve application endpoint supporting restful get operation various resource
+provide business end user interface run visualization reports/dashboards develop custom query export/download output
+follow governments process procedure policy standard including system development life cycle sdlc section 508 compliance
+provide data science expertise develop analytical models/prototypes using big data architecture support data-driven decision making/improvement.
+provide data visualization service view multiple disparate source data illuminate government data analytics visualization tool analysis thus making data easier understand.
+develop story allow public tell/share story government data analytics interactive visualization foster discussion.
+through visualization understanding data articulate implication data including trend correlation identify actionable intelligence relates data points.
+support executive briefings requested. this include recommendation justification architecture strategy solution current issue recommended alternative approach justification
+version control code check-in using governments configuration management repository. work collaboratively government content management personnel comply needs. build management version control integrated government enterprise cm tool ensure compliance
+create necessary sdlc documentation update including solution/system design document sdd big data reservoir cm plan dynamic operation support plan dosp create document approved technologies/technical stack integration core business system service supporting system enterprise initiative infrastructure

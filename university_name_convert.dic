@@ -1,0 +1,3137 @@
+(dp1
+S'bauman moscow state technical university'
+p2
+g2
+sS'brown university'
+p3
+g3
+sS'rhodes university'
+p4
+g4
+sS'deakin university'
+p5
+g5
+sS'university nottingham'
+p6
+g6
+sS'universiti teknologi petronas'
+p7
+g7
+sS'vytautas magnus university'
+p8
+g8
+sS'trinity college dublin'
+p9
+g9
+sS'unict'
+p10
+S'universitiu degli studi di catania'
+p11
+sS'universitia de montriaal'
+p12
+g12
+sS'universidad del valle'
+p13
+g13
+sS'indian institute technology kanpur'
+p14
+g14
+sS'universidad autionoma del estado de miaxico'
+p15
+g15
+sS'universitiat leipzig'
+p16
+g16
+sS'iitb'
+p17
+S'indian institute technology bombay'
+p18
+sS'universidad iberoamericana'
+p19
+g19
+sS'university twente'
+p20
+g20
+sS'aub'
+p21
+S'american university beirut'
+p22
+sS'iitg'
+p23
+S'indian institute technology guwahati'
+p24
+sS'iitd'
+p25
+S'indian institute technology delhi'
+p26
+sS'iitk'
+p27
+g14
+sS'uitm'
+p28
+S'universiti teknologi mara'
+p29
+sS'tokyo medical dental university'
+p30
+g30
+sS'ucsc'
+p31
+S'university california santa cruz'
+p32
+sS'iitm'
+p33
+S'indian institute technology madras'
+p34
+sS'iitr'
+p35
+S'indian institute technology roorkee'
+p36
+sS'university delhi'
+p37
+g37
+sS'kfupm'
+p38
+S'king fahd university petroleum & minerals'
+p39
+sS'abu dhabi university'
+p40
+g40
+sS'pontificia universidad catiolica del peri'
+p41
+g41
+sS'indian institute science bangalore'
+p42
+g42
+sS'shinshu university'
+p43
+g43
+sS'virginia commonwealth university'
+p44
+g44
+sS'universitiu di bologna'
+p45
+g45
+sS'iacole des ponts paristech'
+p46
+g46
+sS'universidad simion bolivar venezuela'
+p47
+g47
+sS'kuwait university'
+p48
+g48
+sS'kcl'
+p49
+S"king's college london"
+p50
+sS'tianjin university'
+p51
+g51
+sS'universitas muhammadiyah surakarta'
+p52
+g52
+sS'university tehran'
+p53
+g53
+sS'technische universitiat dortmund'
+p54
+g54
+sS'miami university'
+p55
+g55
+sS'duke university'
+p56
+g56
+sS'michigan technological university'
+p57
+g57
+sS'ateneo de manila university'
+p58
+g58
+sS'uwa'
+p59
+S'university western australia'
+p60
+sS'united arab emirates university'
+p61
+g61
+sS'university liverpool'
+p62
+g62
+sS'abo akademi university'
+p63
+g63
+sS'australian catholic university'
+p64
+g64
+sS'kit karlsruher institut fiir technologie'
+p65
+g65
+sS'upm'
+p66
+S'universiti putra malaysia'
+p67
+sS'colorado state university'
+p68
+g68
+sS'universitiu degli studi di trieste'
+p69
+g69
+sS'ben gurion university negev'
+p70
+g70
+sS'university melbourne'
+p71
+g71
+sg60
+g60
+sS'university tokyo'
+p72
+g72
+sS'university oulu'
+p73
+g73
+sS'dit'
+p74
+S'dublin institute technology'
+p75
+sS'university southampton'
+p76
+g76
+sS'universitia paris-sud 11'
+p77
+g77
+sS'leibniz universitiat hannover'
+p78
+g78
+sS'university colombo'
+p79
+g79
+sS'purdue university'
+p80
+g80
+sS'national university sciences technology'
+p81
+g81
+sS'university manchester'
+p82
+g82
+sS'uea'
+p83
+S'university east anglia'
+p84
+sS'kazakh national technical university k.i.satpayev'
+p85
+g85
+sS'beijing institute technology'
+p86
+g86
+sS'nagoya university'
+p87
+g87
+sS'uerj'
+p88
+S'universidade estado rio de janeiro'
+p89
+sS'iitkgp'
+p90
+S'indian institute technology kharagpur'
+p91
+sS'kanazawa university'
+p92
+g92
+sS'uet'
+p93
+S'university engineering & technology'
+p94
+sS'university alabama'
+p95
+g95
+sS'universiti sains malaysia'
+p96
+g96
+sS'university belgrade'
+p97
+g97
+sS'princeton university'
+p98
+g98
+sS'peopleuas university china'
+p99
+S'renmin'
+p100
+sS'university gothenburg'
+p101
+g101
+sS'university brawijaya'
+p102
+g102
+sS'universitiu degli studi roma tre'
+p103
+g103
+sS'louisiana state university'
+p104
+g104
+sS'universidad autionoma de madrid'
+p105
+g105
+sS'universidad carlos iii de madrid'
+p106
+g106
+sS'georgetown university'
+p107
+g107
+sS'katholieke universiteit leuven'
+p108
+g108
+sS'universidade federal pernambuco'
+p109
+g109
+sS'national taiwan normal university'
+p110
+g110
+sg22
+g22
+sS'new school university'
+p111
+g111
+sS'university greenwich'
+p112
+g112
+sS'moscow institute physics technology state university'
+p113
+g113
+sS'london school economics political science'
+p114
+g114
+sS'southeast university'
+p115
+g115
+sS'universitia de caen basse-normandie'
+p116
+g116
+sS'fu jen catholic university'
+p117
+g117
+sS'istanbul technical university'
+p118
+g118
+sS'syracuse university'
+p119
+g119
+sS'lappeenranta university technology'
+p120
+g120
+sS'rutgers - state university new jersey new brunswick'
+p121
+g121
+sS'university british columbia'
+p122
+g122
+sS'soas - school oriental african studies university london'
+p123
+g123
+sS'university philippines'
+p124
+g124
+sS'ecole normale supiarieure paris'
+p125
+g125
+sS'hku'
+p126
+S'university hong kong'
+p127
+sS'university debrecen'
+p128
+g128
+sS'technische universitiat braunschweig'
+p129
+g129
+sS'nagasaki university'
+p130
+g130
+sS'pontificia universidad catolica del ecuador'
+p131
+g131
+sS'national kapodistrian university athens'
+p132
+g132
+sS'universidade federal rio grande sul'
+p133
+g133
+sS'kaist - korea advanced institute science technology'
+p134
+g134
+sS'baylor university'
+p135
+g135
+sS'universitia paul sabatier toulouse iii'
+p136
+g136
+sS'universidad de belgrano'
+p137
+g137
+sS'technische universitiat berlin'
+p138
+g138
+sS'verona university'
+p139
+g139
+sS'universitia saint-joseph de beyrouth'
+p140
+g140
+sS'universitiat bayreuth'
+p141
+g141
+sS'nust islamabad'
+p142
+g81
+sS'ohio university'
+p143
+g143
+sS'pontificia universidad catiolica argentina santa maria de los buenos aires'
+p144
+g144
+sS'kyungpook national university'
+p145
+g145
+sS'unsw'
+p146
+S'university new south wales'
+p147
+sS'tokyo university science'
+p148
+g148
+sg67
+g67
+sS'universitiu degli studi di torino'
+p149
+g149
+sS'bond university'
+p150
+g150
+sS'universitia paris-sorbonne'
+p151
+g151
+sS'yokohama national university'
+p152
+g152
+sS'monash university'
+p153
+g153
+sS'university illinois chicago'
+p154
+g154
+sS'national taipei university technology'
+p155
+g155
+sS'virginia polytechnic institute'
+p156
+g156
+sS'amirkabir university technology'
+p157
+g157
+sS'university kwazulu-natal'
+p158
+g158
+sS'national research saratov state university'
+p159
+g159
+sS'ipn'
+p160
+S'instituto politiacnico nacional'
+p161
+sS'newcastle university'
+p162
+g162
+sS'brunel university'
+p163
+g163
+sS'universidad de alcali'
+p164
+g164
+sS'tilburg university'
+p165
+g165
+sS'university ulster'
+p166
+g166
+sS'university otago'
+p167
+g167
+sg11
+g11
+sS'universiti malaya'
+p168
+g168
+sS'mahidol university'
+p169
+g169
+sS'universidad austral de chile'
+p170
+g170
+sS'technical university denmark'
+p171
+g171
+sS'university oslo'
+p172
+g172
+sS'wake forest university'
+p173
+g173
+sS'universidad de buenos aires'
+p174
+g174
+sS'university ljubljana'
+p175
+g175
+sS'e.a.buketov karaganda state university'
+p176
+g176
+sS'ufpr'
+p177
+S'universidade federal parani'
+p178
+sS'universitia pierre et marie curie'
+p179
+g179
+sS'usm'
+p180
+g96
+sS'university california berkeley'
+p181
+g181
+sS'ruhr-universitiat bochum'
+p182
+g182
+sS'sabanci university'
+p183
+g183
+sS'university arkansas'
+p184
+g184
+sS'university bucharest'
+p185
+g185
+sS'yale university'
+p186
+g186
+sS'vanderbilt university'
+p187
+g187
+sS'universitiat regensburg'
+p188
+g188
+sS'usp'
+p189
+S'universidade de siao paulo'
+p190
+sS'universitiu degli studi di trento'
+p191
+g191
+sS'institut national des sciences appliquiaes de lyon'
+p192
+g192
+sS'hebrew university jerusalem'
+p193
+g193
+sS'fordham university'
+p194
+g194
+sS'paris 2'
+p195
+S'universitia panthiaon-assas'
+p196
+sS'universitia nice sophia-antipolis'
+p197
+g197
+sS'instituto tecnoliogico de buenos aires'
+p198
+g198
+sS'sumy state university'
+p199
+g199
+sS'upmc'
+p200
+g179
+sS'university jyviaskylia'
+p201
+g201
+sS'saitama university'
+p202
+g202
+sS'itam'
+p203
+S'instituto tecnoliogico autonomo de miaxico'
+p204
+sS'palacki university olomouc'
+p205
+g205
+sS'university sharjah'
+p206
+g206
+sS"queen's university"
+p207
+g207
+sS'tomsk state university'
+p208
+g208
+sS'khazar university'
+p209
+g209
+sS'university california santa barbara'
+p210
+g210
+sS'universitia de strasbourg'
+p211
+g211
+sS'university south carolina columbia'
+p212
+g212
+sS'university new hampshire'
+p213
+g213
+sS'universidad tecnoliogica nacional'
+p214
+g214
+sS'al azhar university'
+p215
+g215
+sS'university exeter'
+p216
+g216
+sS'corvinus university budapest'
+p217
+g217
+sS'universidade de santiago de compostela'
+p218
+g218
+sS'national cheng kung university'
+p219
+g219
+sS'stellenbosch university'
+p220
+g220
+sS'konkuk university'
+p221
+g221
+sS'swiss federal institute technology'
+p222
+S'eth zurich'
+p223
+sS'university santo tomas'
+p224
+g224
+sS'american university cairo'
+p225
+g225
+sS'ulb'
+p226
+S'universitia libre de bruxelles'
+p227
+sS'george washington university'
+p228
+g228
+sS'maynooth university'
+p229
+g229
+sS'university antwerp'
+p230
+g230
+sS'hong kong'
+p231
+S'lingnan university'
+p232
+sS'universidade federal da bahia'
+p233
+g233
+sS'kumamoto university'
+p234
+g234
+sS'karl-franzens-universitiat graz'
+p235
+g235
+sS'hacettepe university'
+p236
+g236
+sS'universidad de los andes miarida'
+p237
+g237
+sS'national tsing hua university'
+p238
+g238
+sS'universitia paris diderot - paris 7'
+p239
+g239
+sS'university san francisco'
+p240
+g240
+sS'universidad peruana cayetano heredia'
+p241
+g241
+sS'dongguk university'
+p242
+g242
+sS'qatar university'
+p243
+g243
+sS'justus-liebig-universitiat gieiuen'
+p244
+g244
+sS'uam'
+p245
+S'universidad autionoma metropolitana'
+p246
+sS'new jersey institute technology'
+p247
+g247
+sg36
+g36
+sS'university cincinnati'
+p248
+g248
+sS'university central florida'
+p249
+g249
+sS'drexel university'
+p250
+g250
+sS'lahore university management sciences'
+p251
+g251
+sS'south china university technology'
+p252
+g252
+sS'jordan university science technology'
+p253
+g253
+sS'washington university st louis'
+p254
+g254
+sS'oklahoma state university'
+p255
+g255
+sS'taipei medical university'
+p256
+g256
+sS'nyu'
+p257
+S'new york university'
+p258
+sS'aston university'
+p259
+g259
+sS'universitia charles-de-gaulle lille 3'
+p260
+g260
+sS'rmit university'
+p261
+g261
+sS'vilnius gediminas technical university'
+p262
+g262
+sS'illinois institute technology'
+p263
+g263
+sS'universitiat stuttgart'
+p264
+g264
+sS'university dundee'
+p265
+g265
+sS'inha university'
+p266
+g266
+sS'george mason university'
+p267
+g267
+sS'university kentucky'
+p268
+g268
+sS'insa'
+p269
+g192
+sS'university st andrews'
+p270
+g270
+sS'tampere university technology'
+p271
+g271
+sS'v.n. karazin kharkiv national university'
+p272
+g272
+sS'university new england'
+p273
+g273
+sS'lums'
+p274
+g251
+sS'paris lodron universitiat salzburg'
+p275
+g275
+sS'australian national university'
+p276
+g276
+sS'hufs uo hankuk'
+p277
+g277
+sS'national technical university ukraine kyiv polytechnic institute'
+p278
+g278
+sS'norwegian university science technology'
+p279
+g279
+sS'uanl'
+p280
+S'universidad autionoma de nuevo leion'
+p281
+sS'stevens institute technology'
+p282
+g282
+sS'university witwatersrand'
+p283
+g283
+sS'temple university'
+p284
+g284
+sS'national sun yat-sen university'
+p285
+g285
+sS'cuhk'
+p286
+S'chinese university hong kong'
+p287
+sS'al-farabi kazakh national university'
+p288
+g288
+sS'gifu university'
+p289
+g289
+sS'universitiat hamburg'
+p290
+g290
+sS'florida state university'
+p291
+g291
+sS'leiden university'
+p292
+g292
+sS'university pune'
+p293
+g293
+sS'loughborough university'
+p294
+g294
+sS'universitiat innsbruck'
+p295
+g295
+sS'emory university'
+p296
+g296
+sS'st'
+p297
+S'sofia university st kliment ohridski'
+p298
+sS'rheinische friedrich-wilhelms-universitiat bonn'
+p299
+g299
+sS'washington state university'
+p300
+g300
+sS'postech'
+p301
+S'pohang university science technology'
+p302
+sS'university stirling'
+p303
+g303
+sS'bangor university'
+p304
+g304
+sS'umeie university'
+p305
+g305
+sS'kazakh-british technical university'
+p306
+g306
+sS'lse'
+p307
+g114
+sS'osaka prefecture university'
+p308
+g308
+sS'university copenhagen'
+p309
+g309
+sS'university windsor'
+p310
+g310
+sS'bogor agricultural university'
+p311
+g311
+sS'itb'
+p312
+S'bandung institute technology'
+p313
+sS'universidad adolfo ibiioez'
+p314
+g314
+sS'national taiwan university science technology'
+p315
+g315
+sS'universitiat jena'
+p316
+g316
+sS'university cape town'
+p317
+g317
+sS'university missouri columbia'
+p318
+g318
+sS'de la salle university'
+p319
+g319
+sS'kingston university london'
+p320
+g320
+sS'politecnico di torino'
+p321
+g321
+sS'czech technical university prague'
+p322
+g322
+sS'university limerick'
+p323
+g323
+sS'university technology sydney'
+p324
+g324
+sS'paris iv'
+p325
+g151
+sg298
+g298
+sS'pontificia universidad javeriana'
+p326
+g326
+sS'university oklahoma'
+p327
+g327
+sS'victoria university'
+p328
+g328
+sS'fia'
+p329
+g298
+sS'peking university'
+p330
+g330
+sS'university liege'
+p331
+g331
+sg18
+g18
+sS'warsaw university technology'
+p332
+g332
+sS'huazhong university science technology'
+p333
+g333
+sS'universidad diego portales'
+p334
+g334
+sS'tomsk polytechnic university'
+p335
+g335
+sS'national research nuclear university mephi'
+p336
+g336
+sS'bar-ilan university'
+p337
+g337
+sS'universidade federal de siao paulo'
+p338
+g338
+sS'university queensland'
+p339
+g339
+sg75
+g75
+sg227
+g227
+sS'chonbuk national university'
+p340
+g340
+sS'university seoul'
+p341
+g341
+sS'curtin university'
+p342
+g342
+sS'universidad externado de colombia'
+p343
+g343
+sS'university virginia'
+p344
+g344
+sS'aalto university'
+p345
+g345
+sS'central queensland university'
+p346
+g346
+sS'kagoshima university'
+p347
+g347
+sS'shanghai university'
+p348
+g348
+sS'universidad de valparaiso'
+p349
+g349
+sg127
+g127
+sS'universidade federal rio de janeiro'
+p350
+g350
+sS'macquarie university'
+p351
+g351
+sS'vrije universiteit amsterdam'
+p352
+g352
+sS'itesm'
+p353
+S'tecnoliogico de monterrey'
+p354
+sS'university pretoria'
+p355
+g355
+sS'qafqaz university'
+p356
+g356
+sS'universidad del rosario'
+p357
+g357
+sS'hse moscow'
+p358
+S'national research university higher school economics'
+p359
+sS'university illinois urbana-champaign'
+p360
+g360
+sS'university toronto'
+p361
+g361
+sS'university maribor'
+p362
+g362
+sS'universitia paris ouest nanterre la diafense'
+p363
+g363
+sS'universitia lille 2 droit et santia'
+p364
+g364
+sS'cairo university'
+p365
+g365
+sS'university canterbury'
+p366
+g366
+sg354
+g354
+sS'aoyama gakuin university'
+p367
+g367
+sS'university amsterdam'
+p368
+g368
+sS'udelar'
+p369
+S'universidad de la repi blica'
+p370
+sS'tallinn university technology'
+p371
+g371
+sS'sun yat-sen university'
+p372
+g372
+sS'university south australia'
+p373
+g373
+sS'university central lancashire'
+p374
+g374
+sS'universidade federal de santa maria'
+p375
+g375
+sS'universitiu degli studi di padova'
+p376
+g376
+sS'novosibirsk state university'
+p377
+g377
+sS'university bari'
+p378
+g378
+sS'university tartu'
+p379
+g379
+sS'beijing jiaotong university'
+p380
+g380
+sS'cukurova university'
+p381
+g381
+sS'charles sturt university'
+p382
+g382
+sS'western university'
+p383
+g383
+sS'lehigh university'
+p384
+g384
+sg287
+g287
+sS'national technical university athens'
+p385
+g385
+sS'okayama university'
+p386
+g386
+sS'osaka university'
+p387
+g387
+sS'ational technical university'
+p388
+S'national technical university kharkiv polytechnic institute'
+p389
+sS'national university ireland galway'
+p390
+g390
+sS'universidad panamericana'
+p391
+g391
+sS'lanzhou university'
+p392
+g392
+sS'birkbeck college university london'
+p393
+g393
+sS'universidade da coruioa'
+p394
+g394
+sS'jagiellonian university'
+p395
+g395
+sS'universitia de poitiers'
+p396
+g396
+sS'yeshiva university'
+p397
+g397
+sS'university notre dame'
+p398
+g398
+sS'chonnam national university'
+p399
+g399
+sS'qut'
+p400
+S'queensland university technology'
+p401
+sS'memorial university newfoundland'
+p402
+g402
+sS'university utah'
+p403
+g403
+sS'yeungnam university'
+p404
+g404
+sS'voronezh state university'
+p405
+g405
+sS'ntu'
+p406
+S'national taiwan university'
+p407
+sS'university huddersfield'
+p408
+g408
+sS'university geneva'
+p409
+g409
+sS'ecu'
+p410
+S'edith cowan university'
+p411
+sS'university south florida'
+p412
+g412
+sS'university ghana'
+p413
+g413
+sS'doshisha university'
+p414
+g414
+sS'hokkaido university'
+p415
+g415
+sS'ational research nuclear university'
+p416
+g336
+sS'university st gallen'
+p417
+g417
+sS'university oxford'
+p418
+g418
+sg401
+g401
+sS'alexandria university'
+p419
+g419
+sg24
+g24
+sS'nuig'
+p420
+g390
+sS'iium'
+p421
+S'international islamic university malaysia'
+p422
+sS'nankai university'
+p423
+g423
+sS'universitat politiocnica de catalunya'
+p424
+g424
+sS'universidad nacional de rosario'
+p425
+g425
+sS'vrije universiteit brussel'
+p426
+g426
+sS'lobachevsky state university nizhni novgorod'
+p427
+g427
+sg411
+g411
+sg302
+g302
+sS'lomonosov moscow state university'
+p428
+g428
+sS'snu'
+p429
+S'seoul national university'
+p430
+sS'universidad nacional de cuyo'
+p431
+g431
+sS'american university'
+p432
+g432
+sS'london metropolitan university'
+p433
+g433
+sS'universidad de santiago de chile'
+p434
+g434
+sS'universitia paris dauphine'
+p435
+g435
+sS'cardiff university'
+p436
+g436
+sS'charles university'
+p437
+g437
+sS'tokyo institute technology'
+p438
+g438
+sS'universitia de sherbrooke'
+p439
+g439
+sS'qmul'
+p440
+S'queen mary university london'
+p441
+sS'university aberdeen'
+p442
+g442
+sS'university warsaw'
+p443
+g443
+sS'la trobe university'
+p444
+g444
+sS'kobe university'
+p445
+g445
+sS'university colorado boulder'
+p446
+g446
+sS'american university dubai'
+p447
+g447
+sS'university houston'
+p448
+g448
+sS'city university london'
+p449
+g449
+sS'hiroshima university'
+p450
+g450
+sS'university manitoba'
+p451
+g451
+sg84
+g84
+sS'university glasgow'
+p452
+g452
+sS'universidad metropolitana'
+p453
+g453
+sS'universitia jean moulin lyon 3'
+p454
+g454
+sS'university szeged'
+p455
+g455
+sS'ukm'
+p456
+S'universiti kebangsaan malaysia'
+p457
+sS'ritsumeikan university'
+p458
+g458
+sS'universidad nacional costa rica'
+p459
+g459
+sS'quaid-i-azam university'
+p460
+g460
+sS'university patras'
+p461
+g461
+sS'columbia university'
+p462
+g462
+sS'ajou university'
+p463
+g463
+sS'university lahore'
+p464
+g464
+sS'eberhard karls universitiat tiibingen'
+p465
+g465
+sS'university hertfordshire'
+p466
+g466
+sS'michigan state university'
+p467
+g467
+sS'university ghent'
+p468
+g468
+sS'university crete'
+p469
+g469
+sS'udlap'
+p470
+S'universidad de las amiaricas puebla'
+p471
+sS'universitiu cattolica del sacro cuore'
+p472
+g472
+sS'university sheffield'
+p473
+g473
+sS'radboud university nijmegen'
+p474
+g474
+sS'universidad de montevideo'
+p475
+g475
+sS'universitiat diisseldorf'
+p476
+g476
+sS'city university new york'
+p477
+g477
+sS'universidad de sevilla'
+p478
+g478
+sS'thammasat university'
+p479
+g479
+sS'university calcutta'
+p480
+g480
+sS'northwestern university'
+p481
+g481
+sS'athens university economics business'
+p482
+g482
+sS'university brescia'
+p483
+g483
+sS'university california riverside'
+p484
+g484
+sS'university california davis'
+p485
+g485
+sS'university pics'
+p486
+g486
+sS'sungkyunkwan university'
+p487
+g487
+sg204
+g204
+sS'hkust'
+p488
+S'hong kong university science technology'
+p489
+sS'manchester metropolitan university'
+p490
+g490
+sS'university ottawa'
+p491
+g491
+sS'universidad de la sabana'
+p492
+g492
+sS'freie universitiat berlin'
+p493
+g493
+sS'bogaziiai iiniversitesi'
+p494
+g494
+sS'universitia de montpellier'
+p495
+g495
+sS'pontificia universidad catiolica de chile'
+p496
+g496
+sS'simon fraser university'
+p497
+g497
+sS'universidad de concepciion'
+p498
+g498
+sS'universitiat bremen'
+p499
+g499
+sS'stanford university'
+p500
+g500
+sS'king saud university'
+p501
+g501
+sS'universidad nacional de la plata'
+p502
+g502
+sS'chungnam national university'
+p503
+g503
+sS'anu'
+p504
+g276
+sS'erasmus university rotterdam'
+p505
+g505
+sS'dalhousie university'
+p506
+g506
+sS'pontificia universidade catiolica rio grande sul'
+p507
+g507
+sS'fudan university'
+p508
+g508
+sS'moscow engineering physics institute'
+p509
+g336
+sS'beijing university technology'
+p510
+g510
+sS'universitat autionoma de barcelona'
+p511
+g511
+sS'university warwick'
+p512
+g512
+sS'university ulsan'
+p513
+g513
+sS'universitia de nantes'
+p514
+g514
+sS'sapienza - universitiu di roma'
+p515
+g515
+sS'universitiat ulm'
+p516
+g516
+sS'dartmouth college'
+p517
+g517
+sS'xiamen university'
+p518
+g518
+sS'university delaware'
+p519
+g519
+sS'university turku'
+p520
+g520
+sS'university southern queensland'
+p521
+g521
+sS'oxford brookes university'
+p522
+g522
+sS'mit'
+p523
+S'massachusetts institute technology'
+p524
+sS'heriot-watt university'
+p525
+g525
+sS'university leeds'
+p526
+g526
+sS'universidad nacional de tucumin'
+p527
+g527
+sS'universitia paul-valiary montpellier 3'
+p528
+g528
+sS'universidad de puerto rico'
+p529
+g529
+sS'wayne state university'
+p530
+g530
+sS'universidad torcuato di tella'
+p531
+g531
+sS'university vermont'
+p532
+g532
+sS'universidad rey juan carlos'
+p533
+g533
+sS'alpen-adria-universitiat klagenfurt'
+p534
+g534
+sS'lund university'
+p535
+g535
+sS'kau'
+p536
+S'king abdul aziz university'
+p537
+sS'university college cork'
+p538
+g538
+sS'laval university'
+p539
+g539
+sS'clarkson university'
+p540
+g540
+sS'aristotle university thessaloniki'
+p541
+g541
+sS'university bradford'
+p542
+g542
+sS'rutgers - state university new jersey newark'
+p543
+g543
+sS'universitia claude bernard lyon 1'
+p544
+g544
+sS'university montana missoula'
+p545
+g545
+sS'nicolaus copernicus university'
+p546
+g546
+sS'university buffalo suny'
+p547
+g547
+sS'pennsylvania state university'
+p548
+g548
+sS'nottingham trent university'
+p549
+g549
+sg196
+g196
+sS'coventry university'
+p550
+g550
+sS'tel aviv university'
+p551
+g551
+sS'dublin city university'
+p552
+g552
+sS'king faisal university'
+p553
+g553
+sS'ohio state university'
+p554
+g554
+sS'ationa'
+p555
+S'national university science technology misis'
+p556
+sS'belarus state university'
+p557
+g557
+sg94
+g94
+sS'technion - israel institute technology'
+p558
+g558
+sg422
+g422
+sS'benemiarita universidad autionoma de puebla'
+p559
+g559
+sS'uga'
+p560
+S'universitia grenoble-alpes'
+p561
+sS'university birmingham'
+p562
+g562
+sg178
+g178
+sS'university tennessee'
+p563
+g563
+sS'universitiu degli studi di napoli federico ii'
+p564
+g564
+sS'university western cape'
+p565
+g565
+sg190
+g190
+sS'universitia paris 1 panthiaon-sorbonne'
+p566
+g566
+sS'swinburne university technology'
+p567
+g567
+sS'university wroclaw'
+p568
+g568
+sS'worcester polytechnic institute'
+p569
+g569
+sS'universidade estadual de campinas'
+p570
+g570
+sS"queen's university belfast"
+p571
+g571
+sS'brigham young university'
+p572
+g572
+sS'shandong university'
+p573
+g573
+sS'ksu'
+p574
+g501
+sS'ryerson university'
+p575
+g575
+sS'tongji university'
+p576
+g576
+sS'universidad de guadalajara'
+p577
+g577
+sS'universitiat rostock'
+p578
+g578
+sS'kansas state university'
+p579
+g579
+sS'universidad nacional de ciordoba'
+p580
+g580
+sS'lodz university'
+p581
+g581
+sS'universidad del norte'
+p582
+g582
+sS'universidade de brasilia'
+p583
+g583
+sS'shahid beheshti university tehran'
+p584
+g584
+sg359
+g359
+sS'martin-luther-universitiat halle-wittenberg'
+p585
+g585
+sS'university kent'
+p586
+g586
+sg29
+g29
+sS'university tasmania'
+p587
+g587
+sS'universitia toulouse 1 capitole'
+p588
+g588
+sS'universitiat kiln'
+p589
+g589
+sS'university texas dallas'
+p590
+g590
+sS'university zagreb'
+p591
+g591
+sS'dankook university'
+p592
+g592
+sS'universitat de barcelona'
+p593
+g593
+sS'johannes kepler universitiat linz'
+p594
+g594
+sS'al-imam mohamed ibn saud islamic university'
+p595
+g595
+sS'university latvia'
+p596
+g596
+sS'hitotsubashi university'
+p597
+g597
+sS'case western reserve university'
+p598
+g598
+sS'universidad nacional autionoma de miaxico'
+p599
+g599
+sS'peter great st.petersburg polytechnic university'
+p600
+g600
+sS'university massachusetts amherst'
+p601
+g601
+sS'flinders university'
+p602
+g602
+sS'carnegie mellon university'
+p603
+g603
+sS'sejong university'
+p604
+g604
+sS'universidad catiolica andrias bello - ucab'
+p605
+g605
+sS'ludwig-maximilians-universitiat miinchen'
+p606
+g606
+sS'universitia du quiabec'
+p607
+g607
+sS'hanyang university'
+p608
+g608
+sS'nanjing university'
+p609
+g609
+sS'virginia tech'
+p610
+g156
+sS'makerere university'
+p611
+g611
+sS'utah state university'
+p612
+g612
+sS'iowa state university'
+p613
+g613
+sS'universidad tiacnica federico santa maria'
+p614
+g614
+sS'beijing normal university'
+p615
+g615
+sS'utn'
+p616
+g214
+sS'novosibirsk state technical university'
+p617
+g617
+sS'nus'
+p618
+S'national university singapore'
+p619
+sS'university zurich'
+p620
+g620
+sS'diponegoro university'
+p621
+g621
+sS'ofia university'
+p622
+g298
+sS'universitia de bordeaux'
+p623
+g623
+sS'budapest university technology economics'
+p624
+g624
+sS'texas a&m university'
+p625
+g625
+sS'university essex'
+p626
+g626
+sS'durham university'
+p627
+g627
+sg26
+g26
+sS'technische universitiat darmstadt'
+p628
+g628
+sS'chang gung university'
+p629
+g629
+sS'universidad de castilla-la mancha'
+p630
+g630
+sS'uts'
+p631
+g324
+sS'san diego state university'
+p632
+g632
+sS'waseda university'
+p633
+g633
+sS'julius-maximilians-universitiat wiirzburg'
+p634
+g634
+sS'universidad de salamanca'
+p635
+g635
+sS'swansea university'
+p636
+g636
+sS'baku state university'
+p637
+g637
+sS'gwangju institute science technology'
+p638
+g638
+sS'brandeis university'
+p639
+g639
+sS'universidad de monterrey'
+p640
+g640
+sS'university mumbai'
+p641
+g641
+sS'california institute technology'
+p642
+g642
+sS'aalborg university'
+p643
+g643
+sS'universitiu degli studi di pavia'
+p644
+g644
+sS'philipps-universitiat marburg'
+p645
+g645
+sS'university mississippi'
+p646
+g646
+sS'universitat pompeu fabra'
+p647
+g647
+sS'niversidade estadual pau'
+p648
+S'universidade estadual paulista ji lio de mesquita filho'
+p649
+sS'universitia paris descartes'
+p650
+g650
+sS'universitia de lorraine'
+p651
+g651
+sg161
+g161
+sS'university iowa'
+p652
+g652
+sS'tsinghua university'
+p653
+g653
+sS'university michigan'
+p654
+g654
+sS'arizona state university'
+p655
+g655
+sS'university eastern finland'
+p656
+g656
+sS'university toulouse uo jean jaurios'
+p657
+g657
+sS'universiti degli studi di roma - tor vergata'
+p658
+g658
+sS'yamaguchi university'
+p659
+g659
+sS'auckland university technology'
+p660
+g660
+sS'alexandru ioan cuza university'
+p661
+g661
+sS'university guelph'
+p662
+g662
+sS'university california san diego'
+p663
+g663
+sS'uum'
+p664
+S'universiti utara malaysia'
+p665
+sS'bilkent university'
+p666
+g666
+sS'vub'
+p667
+g426
+sS'universitia lille 1 sciences et technologie'
+p668
+g668
+sS'humboldt-universitiat zu berlin'
+p669
+g669
+sS'stockholm university'
+p670
+g670
+sS'imperial college london'
+p671
+g671
+sS'east china university science technology'
+p672
+g672
+sS'eindhoven university technology'
+p673
+g673
+sS'kyung hee university'
+p674
+g674
+sS'university science technology beijing'
+p675
+g675
+sS'university haifa'
+p676
+g676
+sS'university pennsylvania'
+p677
+g677
+sS'university dhaka'
+p678
+g678
+sS'university connecticut'
+p679
+g679
+sS'east china normal university'
+p680
+g680
+sS'jilin university'
+p681
+g681
+sS'unisi'
+p682
+S'universitiu degli studi di siena'
+p683
+sS'university helsinki'
+p684
+g684
+sS'university groningen'
+p685
+g685
+sS'seoul national university science technology'
+p686
+g686
+sS'ucv'
+p687
+S'universidad central de venezuela'
+p688
+sS'universitiu degli studi di genova'
+p689
+g689
+sS'university bath'
+p690
+g690
+sS'ucr'
+p691
+g484
+sS'ecole polytechnique fiadiarale de lausanne'
+p692
+g692
+sS'university bergen'
+p693
+g693
+sS'aberystwyth university'
+p694
+g694
+sS'arabian gulf university'
+p695
+g695
+sS'american university sharjah'
+p696
+g696
+sS'panjab university'
+p697
+g697
+sS'concordia university'
+p698
+g698
+sS'ucd'
+p699
+S'university college dublin'
+p700
+sS'ucc'
+p701
+g538
+sS'ucb'
+p702
+g181
+sS'uca'
+p703
+g144
+sS'university oregon'
+p704
+g704
+sS'ucm'
+p705
+S'universidad complutense de madrid'
+p706
+sS'ucl'
+p707
+S'universitia catholique de louvain'
+p708
+sS'universitiat mannheim'
+p709
+g709
+sS'uci'
+p710
+S'university california irvine'
+p711
+sS'universidad de murcia'
+p712
+g712
+sS'university waikato'
+p713
+g713
+sS'binghamton university suny'
+p714
+g714
+sS'universidade federal de santa catarina'
+p715
+g715
+sS'universidade federal de viiaosa'
+p716
+g716
+sS'ucla'
+p717
+S'university california los angeles'
+p718
+sS'university chicago'
+p719
+g719
+sS'murdoch university'
+p720
+g720
+sg688
+g688
+sS'ul'
+p721
+g323
+sS'universidad de zaragoza'
+p722
+g722
+sS'clark university'
+p723
+g723
+sg232
+g232
+sS'university jordan'
+p724
+g724
+sS'gist'
+p725
+g638
+sS'charles darwin university'
+p726
+g726
+sg370
+g370
+sS'university texas austin'
+p727
+g727
+sS'universidade estadual de londrina'
+p728
+g728
+sS'universidade catolica portuguesa lisboa'
+p729
+g729
+sS'puc-sp'
+p730
+S'pontificia universidade catiolica de siao paulo'
+p731
+sS'osaka city university'
+p732
+g732
+sS'university bern'
+p733
+g733
+sS'hallym university'
+p734
+g734
+sS'universitiu degli studi di modena e reggio emilia'
+p735
+g735
+sS'western sydney university'
+p736
+g736
+sS'university kansas'
+p737
+g737
+sS'universitiat konstanz'
+p738
+g738
+sS'university york'
+p739
+g739
+sS'unifesp'
+p740
+g338
+sS'universidad latinoamericana de ciencia tecnologia costa rica'
+p741
+g741
+sS'university colorado denver'
+p742
+g742
+sS'york university'
+p743
+g743
+sS'ecole normale supiarieure de lyon'
+p744
+g744
+sS'national chung hsing university'
+p745
+g745
+sS'khalifa university'
+p746
+g746
+sS'keio university'
+p747
+g747
+sg649
+g649
+sS'chalmers university technology'
+p748
+g748
+sS'unifi'
+p749
+S'universitiu degli studi di firenze'
+p750
+sS'university indonesia'
+p751
+g751
+sS'universidad austral'
+p752
+g752
+sS'ens paris'
+p753
+g125
+sg100
+g100
+sS'universidade federal de minas gerais'
+p754
+g754
+sS'university mons'
+p755
+g755
+sS'belarusian national technical university'
+p756
+g756
+sS'university lisbon'
+p757
+g757
+sS'moscow state institute international relations uo mgimo university'
+p758
+g758
+sS'uia'
+p759
+g19
+sS'university north carolina chapel hill'
+p760
+g760
+sS'university lausanne'
+p761
+g761
+sS'dalian university technology'
+p762
+g762
+sS'yonsei university'
+p763
+g763
+sS'griffith university'
+p764
+g764
+sS'kasetsart university'
+p765
+g765
+sS'indiana university bloomington'
+p766
+g766
+sS'university surrey'
+p767
+g767
+sg665
+g665
+sS'harbin institute technology'
+p768
+g768
+sS'ural federal university'
+p769
+g769
+sg718
+g718
+sS'university pacific'
+p770
+g770
+sS'unito'
+p771
+g149
+sS'universidade federal fluminense'
+p772
+g772
+sS'boston university'
+p773
+g773
+sS'm.o.auezov south kazakhstan state university'
+p774
+g774
+sS'university baghdad'
+p775
+g775
+sS'university calgary'
+p776
+g776
+sS'utrecht university'
+p777
+g777
+sS'university minnesota'
+p778
+g778
+sS'university tsukuba'
+p779
+g779
+sS'unisa'
+p780
+g373
+sS'sogang university'
+p781
+g781
+sS'koia university'
+p782
+g782
+sS'universitiu di pisa'
+p783
+g783
+sS'university rochester'
+p784
+g784
+sS'university tampere'
+p785
+g785
+sS'chiba university'
+p786
+g786
+sS'uqu'
+p787
+S'umm al-qura university'
+p788
+sS'tokyo university agriculture technology'
+p789
+g789
+sS'southern methodist university'
+p790
+g790
+sS'north-west university'
+p791
+g791
+sS'university hull'
+p792
+g792
+sg524
+g524
+sS'babes-bolyai university'
+p793
+g793
+sS'taras shevchenko national university kyiv'
+p794
+g794
+sS'jcu'
+p795
+S'james cook university'
+p796
+sS'universitiat des saarlandes'
+p797
+g797
+sS'jku'
+p798
+g594
+sS'johns hopkins university'
+p799
+g799
+sS'technische universitiat dresden'
+p800
+g800
+sS'kazan federal university'
+p801
+g801
+sS'zhejiang university'
+p802
+g802
+sS'shanghai jiao tong university'
+p803
+g803
+sS'university saskatchewan'
+p804
+g804
+sg711
+g711
+sS'pontificia universidade catiolica rio de janeiro - puc - rio'
+p805
+g805
+sS'sciences po paris'
+p806
+g806
+sS'yokohama city university'
+p807
+g807
+sS'wuhan university'
+p808
+g808
+sS'singapore management university'
+p809
+g809
+sS'linkiping university'
+p810
+g810
+sS'boston college'
+p811
+g811
+sg788
+g788
+sg619
+g619
+sS'carleton university'
+p812
+g812
+sS'ulacit'
+p813
+g741
+sg441
+g441
+sS'kyushu university'
+p814
+g814
+sS'clemson university'
+p815
+g815
+sS'ufc'
+p816
+S'universidade federal ceari'
+p817
+sS"universitiu ca' foscari venezia"
+p818
+g818
+sS'university johannesburg'
+p819
+g819
+sS'tional'
+p820
+g336
+sS'kth royal institute technology'
+p821
+g821
+sS'university bahrain'
+p822
+g822
+sS'university adelaide'
+p823
+g823
+sS'university arizona'
+p824
+g824
+sS'rice university'
+p825
+g825
+sS'university southern denmark'
+p826
+g826
+sS'university pittsburgh'
+p827
+g827
+sS'tokyo metropolitan university'
+p828
+g828
+sS'universidad de navarra'
+p829
+g829
+sS'city university hong kong'
+p830
+g830
+sS'university milano-bicocca'
+p831
+g831
+sg537
+g537
+sS'vilnius university'
+p832
+g832
+sS'harvard university'
+p833
+g833
+sS'ewha womans university'
+p834
+g834
+sS'tcd'
+p835
+g9
+sS'lancaster university'
+p836
+g836
+sg817
+g817
+sg50
+g50
+sg430
+g430
+sS'ruprecht-karls-universitiat heidelberg'
+p837
+g837
+sS'westfialische wilhelms-universitiat miinster'
+p838
+g838
+sS'southern federal university'
+p839
+g839
+sS'universitat de valencia'
+p840
+g840
+sS'l.n. gumilyov eurasian national university'
+p841
+g841
+sg561
+g561
+sS'universitiat freiburg'
+p842
+g842
+sS'university basel'
+p843
+g843
+sS'university wollongong'
+p844
+g844
+sS'kyoto university'
+p845
+g845
+sS'beihang university'
+p846
+g846
+sg457
+g457
+sS'university kufa'
+p847
+g847
+sS'university nebraska'
+p848
+g848
+sS'universidad de palermo'
+p849
+g849
+sS'airlangga university'
+p850
+g850
+sS'university maryland baltimore county'
+p851
+g851
+sS'university newcastle'
+p852
+g852
+sg147
+g147
+sS'khon kaen university'
+p853
+g853
+sS'unibo'
+p854
+g45
+sS'universidad nacional mayor de san marcos'
+p855
+g855
+sS'goldsmiths university london'
+p856
+g856
+sS'georgia institute technology'
+p857
+g857
+sg407
+g407
+sS'universidad industrial de santander'
+p858
+g858
+sS"king mongkut's university technology thonburi"
+p859
+g859
+sS'ecole normale supiarieure de cachan'
+p860
+g860
+sS'stony brook university'
+p861
+g861
+sS'universidad de san francisco de quito'
+p862
+g862
+sS'university nairobi'
+p863
+g863
+sS'university plymouth'
+p864
+g864
+sS'politiacnica de madrid'
+p865
+g865
+sS'universidad de la habana'
+p866
+g866
+sS'korea university foreign studies'
+p867
+g277
+sS'universitiat duisburg-essen'
+p868
+g868
+sS'university macau'
+p869
+g869
+sS'georg-august-universitiat gittingen'
+p870
+g870
+sS'gunma university'
+p871
+g871
+sS'national chiao tung university'
+p872
+g872
+sS'donetsk national university'
+p873
+g873
+sS'saint-petersburg state university'
+p874
+g874
+sS'university waterloo'
+p875
+g875
+sS'universitiu degli studi di perugia'
+p876
+g876
+sS'massey university'
+p877
+g877
+sS'plekhanov russian university economics'
+p878
+g878
+sS'kent state university'
+p879
+g879
+sS'university science technology china'
+p880
+g880
+sS'robert gordon university'
+p881
+g881
+sS'university wisconsin-madison'
+p882
+g882
+sg708
+g708
+sS'universidad de talca'
+p883
+g883
+sS'kaunas university technology'
+p884
+g884
+sS'universidade federal de siao carlos'
+p885
+g885
+sS'university massachusetts boston'
+p886
+g886
+sS'chiang mai university'
+p887
+g887
+sS'university washington'
+p888
+g888
+sg489
+g489
+sg89
+g89
+sS'centralesupialec'
+p889
+g889
+sS'universitiat wien'
+p890
+g890
+sS'iran university science technology'
+p891
+g891
+sS'universidad de san andrias'
+p892
+g892
+sS'pontificia universidad catiolica de valparaiso'
+p893
+g893
+sS'universidad de costa rica'
+p894
+g894
+sS'korea university'
+p895
+g895
+sS'technische universitiat miinchen'
+p896
+g896
+sS'unipv'
+p897
+g644
+sS'niigata university'
+p898
+g898
+sS'university reading'
+p899
+g899
+sS'georgia tech'
+p900
+g857
+sS'universitiat frankfurt main'
+p901
+g901
+sS'ucsb'
+p902
+g210
+sS'ucsd'
+p903
+g663
+sS'universitas gadjah mada'
+p904
+g904
+sS'unipd'
+p905
+g376
+sS'university auckland'
+p906
+g906
+sg683
+g683
+sS'university wyoming'
+p907
+g907
+sS'georgia state university'
+p908
+g908
+sS'university east london'
+p909
+g909
+sS'university coimbra'
+p910
+g910
+sS'hsg'
+p911
+g417
+sS'howard university'
+p912
+g912
+sS'university new mexico'
+p913
+g913
+sS'cornell university'
+p914
+g914
+sS'missouri university science technology'
+p915
+g915
+sS'banaras hindu university'
+p916
+g916
+sS'university karachi'
+p917
+g917
+sS'king khalid university'
+p918
+g918
+sS'hong kong polytechnic university'
+p919
+g919
+sS'university salford'
+p920
+g920
+sS'epfl'
+p921
+g692
+sS'university hawaii muanoa'
+p922
+g922
+sS'dcu'
+p923
+g552
+sS'national yang ming university'
+p924
+g924
+sS'pusan national university'
+p925
+g925
+sS'university san diego'
+p926
+g926
+sS'royal holloway university london'
+p927
+g927
+sS'university bristol'
+p928
+g928
+sS'kazakh national pedagogical university abai'
+p929
+g929
+sS'masaryk university'
+p930
+g930
+sS'universitiuae degli studi di palermo'
+p931
+g931
+sS'mcmaster university'
+p932
+g932
+sS'national chengchi university'
+p933
+g933
+sS'mephi'
+p934
+g336
+sS'north carolina state university'
+p935
+g935
+sS'brno university technology'
+p936
+g936
+sS'universidad de los andes colombia'
+p937
+g937
+sS'universidad nacional de colombia'
+p938
+g938
+sS'northeastern university'
+p939
+g939
+sS'lincoln university'
+p940
+g940
+sS'university florida'
+p941
+g941
+sS'universitia lumiiore lyon 2'
+p942
+g942
+sg34
+g34
+sS'sichuan university'
+p943
+g943
+sg91
+g91
+sS'university portsmouth'
+p944
+g944
+sS'usach'
+p945
+g434
+sS'universidad de chile'
+p946
+g946
+sS'lebanese american university'
+p947
+g947
+sS'christian-albrechts-universitiat zu kiel'
+p948
+g948
+sS'university denver'
+p949
+g949
+sS'middle east technical university'
+p950
+g950
+sS'universidade nova de lisboa'
+p951
+g951
+sg389
+g389
+sg32
+g32
+sS'ankara iiniversitesi'
+p952
+g952
+sg246
+g246
+sS'university leicester'
+p953
+g953
+sS'hkbu'
+p954
+S'hong kong baptist university'
+p955
+sS'kazakh ablai khan university international relations world languages'
+p956
+g956
+sg313
+g313
+sg796
+g796
+sg258
+g258
+sS'middlesex university'
+p957
+g957
+sg955
+g955
+sS'ational technical universit'
+p958
+g278
+sS'catholic university korea'
+p959
+g959
+sS'delft university technology'
+p960
+g960
+sS'university college london'
+p961
+g707
+sS'university albany suny'
+p962
+g962
+sS'petronas'
+p963
+g7
+sS'unam'
+p964
+g599
+sS'mcgill university'
+p965
+g965
+sS'rensselaer polytechnic institute'
+p966
+g966
+sS'college william & mary'
+p967
+g967
+sS'universidad nacional del sur'
+p968
+g968
+sS'ochanomizu university'
+p969
+g969
+sg700
+g700
+sS'loyola university chicago'
+p970
+g970
+sS'shams university'
+p971
+g971
+sS'university tulsa'
+p972
+g972
+sS'istanbul university'
+p973
+g973
+sS'university edinburgh'
+p974
+g974
+sS'oregon state university'
+p975
+g975
+sS'university tromso'
+p976
+g976
+sS'universidad nacional de mar del plata'
+p977
+g977
+sS'marquette university'
+p978
+g978
+sS'universitiu degli studi di ferrara'
+p979
+g979
+sS'aarhus university'
+p980
+g980
+sS'sharif university technology'
+p981
+g981
+sS'uq'
+p982
+g339
+sS'northumbria university newcastle'
+p983
+g983
+sS'utm'
+p984
+S'universiti teknologi malaysia'
+p985
+sS'um'
+p986
+g168
+sS'chulalongkorn university'
+p987
+g987
+sg731
+g731
+sS'university porto'
+p988
+g988
+sS'maastricht university'
+p989
+g989
+sS'auburn university'
+p990
+g990
+sS'ub'
+p991
+g593
+sS'johannes gutenberg universitiat mainz'
+p992
+g992
+sS'uic'
+p993
+g154
+sS'universitiu degli studi di milano'
+p994
+g994
+sS'gazi iiniversitesi'
+p995
+g995
+sS'itba'
+p996
+g198
+sS'tohoku university'
+p997
+g997
+sS"xi'an jiaotong university"
+p998
+g998
+sS'rheinisch-westfialische technische hochschule aachen'
+p999
+g999
+sS'nanyang technological university'
+p1000
+g1000
+sS'west university timisoara'
+p1001
+g1001
+sS'university southern california'
+p1002
+g1002
+sS'politecnico di milano'
+p1003
+g1003
+sS'universidad anahuac'
+p1004
+g1004
+sS'university canberra'
+p1005
+g1005
+sS'university cambridge'
+p1006
+g1006
+sS'rudn university'
+p1007
+g1007
+sS'university sydney'
+p1008
+g1008
+sS'units'
+p1009
+g69
+sS'comenius university bratislava'
+p1010
+g1010
+sS'tulane university'
+p1011
+g1011
+sS'njit'
+p1012
+g247
+sS'university alberta'
+p1013
+g1013
+sg281
+g281
+sS'uppsala university'
+p1014
+g1014
+sS'caltech'
+p1015
+g642
+sg39
+g39
+sS'sultan qaboos university'
+p1016
+g1016
+sS'universidad de granada'
+p1017
+g1017
+sS'technische universitiat wien'
+p1018
+g1018
+sS'tokai university'
+p1019
+g1019
+sS'udg'
+p1020
+g577
+sS'eotvos lorand university'
+p1021
+g1021
+sg985
+g985
+sS'universidad politecnica de valencia'
+p1022
+g1022
+sS'university georgia'
+p1023
+g1023
+sS'universitia aix-marseille'
+p1024
+g1024
+sS'unicamp'
+p1025
+g570
+sg471
+g471
+sS'university maryland college park'
+p1026
+g1026
+sS'universidad de antioquia'
+p1027
+g1027
+sg556
+g556
+sS'university victoria'
+p1028
+g1028
+sS'tufts university'
+p1029
+g1029
+sS'smith college'
+p1030
+g1030
+sS'university sussex'
+p1031
+g1031
+sS'victoria university wellington'
+p1032
+g1032
+sS'sepuluh nopember institute technology'
+p1033
+g1033
+sS'keele university'
+p1034
+g1034
+sS'universitiat bielefeld'
+p1035
+g1035
+sS'national central university'
+p1036
+g1036
+sg223
+g223
+sS'chung-ang university'
+p1037
+g1037
+sS'universitia de rennes 1'
+p1038
+g1038
+sS'university strathclyde'
+p1039
+g1039
+sg706
+g706
+sS'universitia de cergy-pontoise'
+p1040
+g1040
+sg750
+g750
+sS'prince songkla university'
+p1041
+g1041
+sS'far eastern federal university'
+p1042
+g1042
+sS'wageningen university'
+p1043
+g1043
+sS'ecole polytechnique paristech'
+p1044
+g1044
+sS'university miami'
+p1045
+g1045
+sS'universitiat erlangen-niirnberg'
+p1046
+g1046
+s.
