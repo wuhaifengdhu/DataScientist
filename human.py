@@ -10,7 +10,7 @@ import pandas as pd
 
 class Main(object):
     @staticmethod
-    def expore():
+    def generate_profile_summary():
         profile_list = StoreHelper.load_data("./resource/convert_profile.dat", [])
         print (len(profile_list))
         company_dict = StoreHelper.load_data('rank-company_posts_profiles.dic', {})
@@ -22,46 +22,13 @@ class Main(object):
         total_company_employees = [i for i in range(len(profile_list))]
         others = list(set(total_company_employees) - set(top_50_company_employees))
 
-        csv_header = ['', '1-100', '101-200', '201-300', '301-400', '401-500', '501-600', '601-700', '701-800', '801-900', '901-1000', '1000+']
-        csv_data = []
-        for c_rank, employee_list in {"1_top 50": top_50_company_employees, "2_others": others, "3_total": total_company_employees}.items():
-            university_rank_dict = {}
+        for c_rank, employee_list in {"top 50": top_50_company_employees, "others": others, "total": total_company_employees}.items():
+            csv_header = ['employee', 'skills', "work_change_times", "years", "university", "education", "company", "major"]
+            csv_data = []
             for employee in employee_list:
-                university = profile_list[employee]['university']
-                if university not in rank_dict:
-                    DictHelper.increase_dic_key(university_rank_dict, '1000+')
-                else:
-                    rank = rank_dict[university]
-                    if rank <= 100:
-                        DictHelper.increase_dic_key(university_rank_dict, '1-100')
-                    elif rank <= 200:
-                        DictHelper.increase_dic_key(university_rank_dict, '101-200')
-                    elif rank <= 300:
-                        DictHelper.increase_dic_key(university_rank_dict, '201-300')
-                    elif rank <= 400:
-                        DictHelper.increase_dic_key(university_rank_dict, '301-400')
-                    elif rank <= 500:
-                        DictHelper.increase_dic_key(university_rank_dict, '401-500')
-                    elif rank <= 600:
-                        DictHelper.increase_dic_key(university_rank_dict, '501-600')
-                    elif rank <= 700:
-                        DictHelper.increase_dic_key(university_rank_dict, '601-700')
-                    elif rank <= 800:
-                        DictHelper.increase_dic_key(university_rank_dict, '701-800')
-                    elif rank <= 900:
-                        DictHelper.increase_dic_key(university_rank_dict, '801-900')
-                    elif rank <= 1000:
-                        DictHelper.increase_dic_key(university_rank_dict, '901-1000')
-            new_list = [c_rank]
-            for i in range(10):
-                key = "%d-%d" % (i * 100 + 1, (i + 1) * 100)
-                if key in university_rank_dict:
-                    new_list.append(university_rank_dict[key])
-                else:
-                    new_list.append('0')
-            new_list.append(university_rank_dict["1000+"])
-            csv_data.append(new_list)
-        CsvHelper.write_list_to_csv('university_overview.csv', csv_header, csv_data)
+                csv_data.append([employee, profile_list[employee]["skills"], profile_list[employee]["work_change_times"], profile_list[employee]["years"], profile_list[employee]["university"], profile_list[employee]["education"], profile_list[employee]["company"],
+                                 profile_list[employee]["major"]])
+            CsvHelper.write_list_to_csv('%s.csv' % c_rank, csv_header, csv_data)
 
     # @staticmethod
     # def generate_work_change_times():
@@ -112,6 +79,49 @@ class Main(object):
     #     csv_data.append(work_year_list)
     # CsvHelper.write_list_to_csv('working_year_overview.csv', csv_header, csv_data)
 
+    # csv_header = ['', '1-100', '101-200', '201-300', '301-400', '401-500', '501-600', '601-700', '701-800', '801-900',
+    #               '901-1000', '1000+']
+    # csv_data = []
+    # for c_rank, employee_list in {"1_top 50": top_50_company_employees, "2_others": others,
+    #                               "3_total": total_company_employees}.items():
+    #     university_rank_dict = {}
+    #     for employee in employee_list:
+    #         university = profile_list[employee]['university']
+    #         if university not in rank_dict:
+    #             DictHelper.increase_dic_key(university_rank_dict, '1000+')
+    #         else:
+    #             rank = rank_dict[university]
+    #             if rank <= 100:
+    #                 DictHelper.increase_dic_key(university_rank_dict, '1-100')
+    #             elif rank <= 200:
+    #                 DictHelper.increase_dic_key(university_rank_dict, '101-200')
+    #             elif rank <= 300:
+    #                 DictHelper.increase_dic_key(university_rank_dict, '201-300')
+    #             elif rank <= 400:
+    #                 DictHelper.increase_dic_key(university_rank_dict, '301-400')
+    #             elif rank <= 500:
+    #                 DictHelper.increase_dic_key(university_rank_dict, '401-500')
+    #             elif rank <= 600:
+    #                 DictHelper.increase_dic_key(university_rank_dict, '501-600')
+    #             elif rank <= 700:
+    #                 DictHelper.increase_dic_key(university_rank_dict, '601-700')
+    #             elif rank <= 800:
+    #                 DictHelper.increase_dic_key(university_rank_dict, '701-800')
+    #             elif rank <= 900:
+    #                 DictHelper.increase_dic_key(university_rank_dict, '801-900')
+    #             elif rank <= 1000:
+    #                 DictHelper.increase_dic_key(university_rank_dict, '901-1000')
+    #     new_list = [c_rank]
+    #     for i in range(10):
+    #         key = "%d-%d" % (i * 100 + 1, (i + 1) * 100)
+    #         if key in university_rank_dict:
+    #             new_list.append(university_rank_dict[key])
+    #         else:
+    #             new_list.append('0')
+    #     new_list.append(university_rank_dict["1000+"])
+    #     csv_data.append(new_list)
+    # CsvHelper.write_list_to_csv('university_overview.csv', csv_header, csv_data)
+
     @staticmethod
     def generate_university_rank(rank_file='./resource/world_university_rank.csv'):
         df = pd.read_csv(rank_file)
@@ -136,5 +146,5 @@ class Main(object):
 if __name__ == '__main__':
     # university_name_convert_dict = StoreHelper.load_data('university_name_convert.dic', {})
     # StoreHelper.save_file(university_name_convert_dict, 'university_name_convert.txt')
-    Main.expore()
+    Main.generate_profile_summary()
     # Main.generate_university_rank()
